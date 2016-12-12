@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.342651+00:00", 
+    "data": {
+        "activityID": [
+            "CFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "As aqua-control experiment, but with cloud-radiative effects switched off in the LW radiation code", 
+        "endYear": "", 
+        "experiment": "aquaplanet control with longwave cloud radiative effects off", 
+        "minNumberYrsPerSim": "10", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 180, 
+    "labels": {
+        "en": "aqua-control-lwoff"
+    }, 
+    "name": "aqua-control-lwoff", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "5e11edb2-178d-4d1c-a3cc-f0443d2faad3", 
+    "url": null
+}

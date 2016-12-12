@@ -1,0 +1,37 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.331435+00:00", 
+    "data": {
+        "activityID": [
+            "ISMIP6"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Offline ice sheet evolution for the last few decades forced by amip", 
+        "endYear": "2014", 
+        "experiment": "offline ice sheet forced by ISMIP6-specified AGCM AMIP output", 
+        "minNumberYrsPerSim": "36", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "ISM"
+        ], 
+        "startYear": "1979", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 65, 
+    "labels": {
+        "en": "ism-amip-std"
+    }, 
+    "name": "ism-amip-std", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "51eeeae9-f000-4ce8-8761-c421879ef0f2", 
+    "url": null
+}

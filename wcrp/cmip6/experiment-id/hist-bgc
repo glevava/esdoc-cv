@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.337960+00:00", 
+    "data": {
+        "activityID": [
+            "C4MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Concentration-driven historical simulation, biogeochemically-coupled", 
+        "endYear": "2014", 
+        "experiment": "biogeochemically-coupled version of the simulation of the recent past with CO2 concentration prescribed", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM", 
+            "BGC"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 133, 
+    "labels": {
+        "en": "hist-bgc"
+    }, 
+    "name": "hist-bgc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "e785057e-1f2f-45f7-8cfd-06627e1095ac", 
+    "url": null
+}

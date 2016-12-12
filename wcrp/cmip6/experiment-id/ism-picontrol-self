@@ -1,0 +1,37 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.326934+00:00", 
+    "data": {
+        "activityID": [
+            "ISMIP6"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Pre-industrial control simulation for \"offline\" ice sheets", 
+        "endYear": "", 
+        "experiment": "offline ice sheet forced by ISM's own AOGCM piControl output", 
+        "minNumberYrsPerSim": "451", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "ISM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 16, 
+    "labels": {
+        "en": "ism-piControl-self"
+    }, 
+    "name": "ism-picontrol-self", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "1b39f476-9a2e-4520-8697-65e2c24eb5f8", 
+    "url": null
+}

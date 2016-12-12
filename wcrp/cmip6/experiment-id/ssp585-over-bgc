@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.334887+00:00", 
+    "data": {
+        "activityID": [
+            "C4MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "", 
+        "endYear": "2100", 
+        "experiment": "biogeochemically-coupled version of the RCP3.4-overshoot based on SSP5", 
+        "minNumberYrsPerSim": "85", 
+        "parentActivityID": [
+            "C4MIP"
+        ], 
+        "parentExperimentID": [
+            "hist-bgc"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM", 
+            "BGC"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 101, 
+    "labels": {
+        "en": "ssp585-over-bgc"
+    }, 
+    "name": "ssp585-over-bgc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "7e7c8cb5-c956-4b61-b5c4-96f96f8bde87", 
+    "url": null
+}

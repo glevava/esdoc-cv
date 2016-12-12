@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.340509+00:00", 
+    "data": {
+        "activityID": [
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "CHEM"
+        ], 
+        "description": "Historical transient with SSTs prescribed from historical", 
+        "endYear": "2014", 
+        "experiment": "historical prescribed SSTs and historical forcing", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 159, 
+    "labels": {
+        "en": "histSST"
+    }, 
+    "name": "histsst", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "7fb58bb9-3ed7-455f-a3f1-d24409954f34", 
+    "url": null
+}

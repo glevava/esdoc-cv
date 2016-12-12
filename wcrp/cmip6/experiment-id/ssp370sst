@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.340213+00:00", 
+    "data": {
+        "activityID": [
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "CHEM"
+        ], 
+        "description": "Future SSP3-7.0, with SSTs prescribed from ssp370", 
+        "endYear": "2055", 
+        "experiment": "SSP3-7.0, with SSTs prescribed from ssp370", 
+        "minNumberYrsPerSim": "41", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 156, 
+    "labels": {
+        "en": "ssp370SST"
+    }, 
+    "name": "ssp370sst", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "50975213-3c5e-4231-8d65-cf2fcc3833b2", 
+    "url": null
+}

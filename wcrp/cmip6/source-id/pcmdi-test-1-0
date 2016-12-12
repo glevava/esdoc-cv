@@ -1,0 +1,38 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.318806+00:00", 
+    "data": {
+        "aerosol": "None", 
+        "atmosphere": "Earth1.0-gettingHotter (360x180; 50 levels; top level 0.1 mb)", 
+        "atmosphericChemistry": "None", 
+        "cohort": [
+            "CMIP6"
+        ], 
+        "institutionID": [
+            "PCMDI"
+        ], 
+        "label": "PCMDI-test 1.0", 
+        "labelExtended": "PCMDI-test 1.0 (This entry is free text for users to contribute verbose information)", 
+        "landIce": "None", 
+        "landSurface": "Earth1.0", 
+        "ocean": "BlueMarble1.0-warming (360x180; 50 levels; top grid cell 0-10m)", 
+        "oceanBiogeochemistry": "None", 
+        "releaseYear": "1989", 
+        "seaIce": "Declining1.0-warming", 
+        "sourceID": "PCMDI-test-1-0"
+    }, 
+    "description": null, 
+    "idx": 4, 
+    "labels": {
+        "en": "PCMDI-test-1-0"
+    }, 
+    "name": "pcmdi-test-1-0", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "4581e4f5-6f93-40bf-9cfa-57243ba6bb0e", 
+    "url": null
+}

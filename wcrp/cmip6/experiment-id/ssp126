@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.329818+00:00", 
+    "data": {
+        "activityID": [
+            "ScenarioMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Future scenario with low radiative forcing by the end of century. Following approximately RCP2.6 global forcing pathway but with new forcing based on SSP1. Concentration-driven", 
+        "endYear": "2100", 
+        "experiment": "update of RCP2.6 based on SSP1", 
+        "minNumberYrsPerSim": "86", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "historical"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 48, 
+    "labels": {
+        "en": "ssp126"
+    }, 
+    "name": "ssp126", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "e3e11445-95ff-42d4-9381-b2ae73629783", 
+    "url": null
+}

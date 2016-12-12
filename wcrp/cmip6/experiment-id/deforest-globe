@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.342151+00:00", 
+    "data": {
+        "activityID": [
+            "LUMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Idealized deforestation experiment, 20 million km2 forest removed linearly over a period of 50 years, with an additional 30 years with no specified change in forest cover; all other forcings held constant", 
+        "endYear": "", 
+        "experiment": "idealized transient global deforestation", 
+        "minNumberYrsPerSim": "81", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 175, 
+    "labels": {
+        "en": "deforest-globe"
+    }, 
+    "name": "deforest-globe", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "28e53103-fd53-4a84-9326-d47e10708171", 
+    "url": null
+}

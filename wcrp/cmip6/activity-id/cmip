@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.316914+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 4, 
+    "labels": {
+        "en": "CMIP"
+    }, 
+    "name": "cmip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "a72a93eb-7a68-4105-8a40-84343bdd870a", 
+    "url": null
+}

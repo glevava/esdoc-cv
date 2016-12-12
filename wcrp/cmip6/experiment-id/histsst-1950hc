@@ -1,0 +1,39 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.330874+00:00", 
+    "data": {
+        "activityID": [
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Historical WMGHG concentrations and NTCF emissions, 1950 halocarbon concentrations", 
+        "endYear": "2014", 
+        "experiment": "historical SSTs and historical forcing, but with1950 halocarbon concentrations", 
+        "minNumberYrsPerSim": "65", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER", 
+            "CHEM"
+        ], 
+        "startYear": "1950", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 59, 
+    "labels": {
+        "en": "histSST-1950HC"
+    }, 
+    "name": "histsst-1950hc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "0da11c45-8e33-4570-9c8f-152fdaf2dd37", 
+    "url": null
+}

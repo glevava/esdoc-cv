@@ -1,0 +1,46 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.330325+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Decadal hindcasts begun each year from 1960 to present, or every other year at minimum", 
+        "endYear": "present (to 2019)", 
+        "experiment": "year 1-5 hindcast initialized based on observations and using historical forcing", 
+        "minNumberYrsPerSim": "300", 
+        "parentActivityID": [
+            "DCPP"
+        ], 
+        "parentExperimentID": [
+            "dcppA-assim", 
+            ""
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1960", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 53, 
+    "labels": {
+        "en": "dcppA-hindcast"
+    }, 
+    "name": "dcppa-hindcast", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "2c340ca6-5c37-4204-8c35-7f32251da676", 
+    "url": null
+}

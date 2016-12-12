@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.334415+00:00", 
+    "data": {
+        "activityID": [
+            "PMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "main forcings : orbital parameters, ice-sheet, trace gases", 
+        "endYear": "", 
+        "experiment": "last interglacial (127k)", 
+        "minNumberYrsPerSim": "100", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 96, 
+    "labels": {
+        "en": "lig127k"
+    }, 
+    "name": "lig127k", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "cb272118-8dcf-453f-9270-b308d093625f", 
+    "url": null
+}

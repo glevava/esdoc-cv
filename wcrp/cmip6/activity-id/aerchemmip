@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.316649+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 1, 
+    "labels": {
+        "en": "AerChemMIP"
+    }, 
+    "name": "aerchemmip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "08a3c224-c2cb-45d1-9318-1380e8130fe0", 
+    "url": null
+}

@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.326847+00:00", 
+    "data": {
+        "activityID": [
+            "GeoMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Time slice at 2020 (ScenarioMIP Tier 1 high forcing scenario)", 
+        "endYear": "", 
+        "experiment": "SSTs, forcings, and other prescribed conditions from year 2020 of SSP5-8.5", 
+        "minNumberYrsPerSim": "10", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 15, 
+    "labels": {
+        "en": "G6SST1"
+    }, 
+    "name": "g6sst1", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "22391e92-cf4a-4307-a37d-66a86d3f0f2e", 
+    "url": null
+}

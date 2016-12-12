@@ -1,0 +1,39 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.346664+00:00", 
+    "data": {
+        "activityID": [
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Future SSP3-7.0 with reduced ozone precursor emissions (from ssp370-lowNTCF), prescribed SSTs", 
+        "endYear": "2055", 
+        "experiment": "SSP3-7.0, prescribed SSTs, with low ozone precursor emissions", 
+        "minNumberYrsPerSim": "41", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER", 
+            "CHEM"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 218, 
+    "labels": {
+        "en": "ssp370SST-lowO3"
+    }, 
+    "name": "ssp370sst-lowo3", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "3114ef2c-4d1c-4604-a83f-77be795f40c4", 
+    "url": null
+}

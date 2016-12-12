@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.345661+00:00", 
+    "data": {
+        "activityID": [
+            "CMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Extension beyond 2014 of the CMIP6 historical", 
+        "endYear": "", 
+        "experiment": "post-2014 all-forcing simulation", 
+        "minNumberYrsPerSim": "1", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "historical"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 209, 
+    "labels": {
+        "en": "historical-ext"
+    }, 
+    "name": "historical-ext", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "ec2b135c-2cf7-42e5-b94e-b50e58306da0", 
+    "url": null
+}

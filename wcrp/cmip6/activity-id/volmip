@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.318136+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 18, 
+    "labels": {
+        "en": "VolMIP"
+    }, 
+    "name": "volmip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "23ed7f38-0aab-436f-baa0-7a3ad8da52d6", 
+    "url": null
+}

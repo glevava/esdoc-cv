@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.320648+00:00", 
+    "data": {
+        "postalAddress": "Commonwealth Scientific and Industrial Research Organisation and Bureau of Meteorology, Melbourne, Victoria 3208, Australia"
+    }, 
+    "description": null, 
+    "idx": 9, 
+    "labels": {
+        "en": "CSIRO-BOM"
+    }, 
+    "name": "csiro-bom", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "090c4708-0f88-4310-94f5-3fa036d75a52", 
+    "url": null
+}

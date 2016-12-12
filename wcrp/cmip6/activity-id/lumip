@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.317706+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 13, 
+    "labels": {
+        "en": "LUMIP"
+    }, 
+    "name": "lumip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "fc4f7831-9116-4caa-a71d-ab467adc9566", 
+    "url": null
+}

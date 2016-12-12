@@ -1,0 +1,46 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.325692+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Uninitialized climate simulations as in DCPP-A2.2, but with no information from the future", 
+        "endYear": "present (to 2019)", 
+        "experiment": "hindcast initialized from historical climate simulation without observed forcing after initialization", 
+        "minNumberYrsPerSim": "300", 
+        "parentActivityID": [
+            "DCPP"
+        ], 
+        "parentExperimentID": [
+            "dcppA-assim", 
+            ""
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1960", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "4"
+    }, 
+    "description": null, 
+    "idx": 2, 
+    "labels": {
+        "en": "dcppA-historical-niff"
+    }, 
+    "name": "dcppa-historical-niff", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "08272e4b-9e25-41b1-b780-b8b98a76d489", 
+    "url": null
+}

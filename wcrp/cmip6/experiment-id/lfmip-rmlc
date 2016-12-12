@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.331711+00:00", 
+    "data": {
+        "activityID": [
+            "LS3MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Prescribed land conditions 30yr running mean", 
+        "endYear": "2100", 
+        "experiment": "prescribed land conditions (from running mean climatology) and initialized from \"historical\" run year 1980", 
+        "minNumberYrsPerSim": "121", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "historical"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1980", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 68, 
+    "labels": {
+        "en": "lfmip-rmLC"
+    }, 
+    "name": "lfmip-rmlc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "8dc13efa-d468-403e-9cdb-a4386338c023", 
+    "url": null
+}

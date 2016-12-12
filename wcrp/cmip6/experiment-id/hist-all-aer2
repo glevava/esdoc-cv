@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.328801+00:00", 
+    "data": {
+        "activityID": [
+            "DAMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Historical ALL forcing run with alternate estimates of aerosol concentrations/emissions", 
+        "endYear": "2020", 
+        "experiment": "historical ALL-forcing run with alternate estimates of aerosol forcing", 
+        "minNumberYrsPerSim": "171", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 37, 
+    "labels": {
+        "en": "hist-all-aer2"
+    }, 
+    "name": "hist-all-aer2", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "4d65cd6a-d10c-444e-976f-f28cf26fad14", 
+    "url": null
+}

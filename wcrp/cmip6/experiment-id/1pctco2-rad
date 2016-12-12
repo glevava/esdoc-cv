@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.346390+00:00", 
+    "data": {
+        "activityID": [
+            "C4MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Radiatively-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling", 
+        "endYear": "", 
+        "experiment": "radiatively-coupled version of 1 percent per year increasing CO2 experiment", 
+        "minNumberYrsPerSim": "150", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM", 
+            "BGC"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 216, 
+    "labels": {
+        "en": "1pctCO2-rad"
+    }, 
+    "name": "1pctco2-rad", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "6e9c0eda-a1f5-450c-96cc-4ec487e79b50", 
+    "url": null
+}

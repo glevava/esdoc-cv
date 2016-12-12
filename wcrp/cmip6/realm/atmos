@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.314742+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 2, 
+    "labels": {
+        "en": "atmos"
+    }, 
+    "name": "atmos", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "87cc8857-bc12-4813-97ef-8fa13d85c193", 
+    "url": null
+}

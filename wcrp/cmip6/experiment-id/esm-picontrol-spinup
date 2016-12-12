@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.347100+00:00", 
+    "data": {
+        "activityID": [
+            "CMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "DECK: spin-up portion of the control (emission-driven)", 
+        "endYear": "", 
+        "experiment": "pre-industrial control simulation with CO2 concentration calculated (spin-up)", 
+        "minNumberYrsPerSim": "100", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM", 
+            "BGC"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 222, 
+    "labels": {
+        "en": "esm-piControl-spinup"
+    }, 
+    "name": "esm-picontrol-spinup", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "f0403e4d-81de-4908-b338-eaf44c7e7b7f", 
+    "url": null
+}

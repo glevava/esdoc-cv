@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.328981+00:00", 
+    "data": {
+        "activityID": [
+            "LS3MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Prescribed land conditions 1980-2014 climate", 
+        "endYear": "2100", 
+        "experiment": "prescribed land conditions (from current climate climatology) and initialized from \"historical\" run year 1980", 
+        "minNumberYrsPerSim": "121", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "historical"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1980", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 39, 
+    "labels": {
+        "en": "lfmip-pdLC"
+    }, 
+    "name": "lfmip-pdlc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "706c0558-0b66-4873-a780-e1ce9927c233", 
+    "url": null
+}

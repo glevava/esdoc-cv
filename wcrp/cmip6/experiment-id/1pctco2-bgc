@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.338157+00:00", 
+    "data": {
+        "activityID": [
+            "C4MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Biogeochemically-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling", 
+        "endYear": "", 
+        "experiment": "biogeochemically-coupled version of 1 percent per year increasing CO2 experiment", 
+        "minNumberYrsPerSim": "150", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM", 
+            "BGC"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 135, 
+    "labels": {
+        "en": "1pctCO2-bgc"
+    }, 
+    "name": "1pctco2-bgc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "61928346-1fe7-49ae-b15f-3a14222d17d9", 
+    "url": null
+}

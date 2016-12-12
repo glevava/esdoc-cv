@@ -1,0 +1,44 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.329252+00:00", 
+    "data": {
+        "activityID": [
+            "HighResMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Similar to CFMIP amip-4xCO2, SSTs are held at highresSST-present values and the CO2 seen by the radiation scheme is quadrupled. Run over years 2005-2014 of highresSST-present", 
+        "endYear": "2014", 
+        "experiment": "highresSST-present SST with 4xCO2 concentrations", 
+        "minNumberYrsPerSim": "64", 
+        "parentActivityID": [
+            "HighResMIP"
+        ], 
+        "parentExperimentID": [
+            "highresSST-present"
+        ], 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "1951", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 42, 
+    "labels": {
+        "en": "highresSST-4co2"
+    }, 
+    "name": "highressst-4co2", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "14981cfd-a448-4ec0-ac32-0b8eb9b565cc", 
+    "url": null
+}

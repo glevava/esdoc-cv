@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.341551+00:00", 
+    "data": {
+        "activityID": [
+            "C4MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Emissions-driven future scenario simulation", 
+        "endYear": "2100", 
+        "experiment": "emission-driven RCP8.5 based on SSP5", 
+        "minNumberYrsPerSim": "85", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "esm-hist"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM", 
+            "BGC"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 169, 
+    "labels": {
+        "en": "esm-ssp585"
+    }, 
+    "name": "esm-ssp585", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "79aee4b8-f343-4a0b-a52b-7f7052d5c767", 
+    "url": null
+}

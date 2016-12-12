@@ -1,0 +1,39 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.333758+00:00", 
+    "data": {
+        "activityID": "AerChemMIP", 
+        "additionalAllowedModelComponents": [
+            "AGCM", 
+            "CHEM"
+        ], 
+        "description": "Perturbation from 1850 control using 2014 SO2 emissions", 
+        "endYear": "", 
+        "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 SO2 emissions", 
+        "minNumberYrsPerSim": "30", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 89, 
+    "labels": {
+        "en": "piClim-SO2"
+    }, 
+    "name": "piclim-so2", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "2ef09dc3-6c30-4744-b6cd-7f7c17566eaa", 
+    "url": null
+}

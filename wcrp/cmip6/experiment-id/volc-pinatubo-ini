@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.330601+00:00", 
+    "data": {
+        "activityID": [
+            "VolMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "As volc-pinatubo-full, but as decadal prediction runs. Joint experiment with DCPP, forcing input and implementation of the forcing fully comply with the VolMIP protocol", 
+        "endYear": "2019", 
+        "experiment": "Pinatubo experiment for decadal climate prediction", 
+        "minNumberYrsPerSim": "5", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "initialized near end of year 2014", 
+        "subExperimentID": "s2014", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 56, 
+    "labels": {
+        "en": "volc-pinatubo-ini"
+    }, 
+    "name": "volc-pinatubo-ini", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "702023f0-1eee-4386-b2d8-86fbff0aed9c", 
+    "url": null
+}

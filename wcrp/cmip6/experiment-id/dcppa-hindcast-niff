@@ -1,0 +1,46 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.336700+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Decadal hindcasts begun each year from 1960 to present, or every other year at minimum, but with no information from the future", 
+        "endYear": "present (to 2019)", 
+        "experiment": "hindcast initialized from observations without future observed forcing after initialization", 
+        "minNumberYrsPerSim": "300", 
+        "parentActivityID": [
+            "DCPP"
+        ], 
+        "parentExperimentID": [
+            "dcppA-assim", 
+            ""
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1960", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "4"
+    }, 
+    "description": null, 
+    "idx": 120, 
+    "labels": {
+        "en": "dcppA-hindcast-niff"
+    }, 
+    "name": "dcppa-hindcast-niff", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "9152b68a-c7ce-4031-8537-336065d085db", 
+    "url": null
+}

@@ -1,0 +1,37 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.340019+00:00", 
+    "data": {
+        "activityID": [
+            "RFMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Prescribed anthropogenic aerosol optical properties. Anthropogenic forcings", 
+        "endYear": "", 
+        "experiment": "effective radiative forcing at present day with specified anthropogenic aerosol optical properties, anthropogenic forcings", 
+        "minNumberYrsPerSim": "", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 154, 
+    "labels": {
+        "en": "piClim-spAer-anthro"
+    }, 
+    "name": "piclim-spaer-anthro", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "a24b7d24-ec4e-4d1d-9992-e4fc04a67fc3", 
+    "url": null
+}

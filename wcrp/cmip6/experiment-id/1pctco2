@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.333571+00:00", 
+    "data": {
+        "activityID": [
+            "CMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "DECK: 1pctCO2", 
+        "endYear": "", 
+        "experiment": "1 percent per year increase in CO2", 
+        "minNumberYrsPerSim": "150", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 87, 
+    "labels": {
+        "en": "1pctCO2"
+    }, 
+    "name": "1pctco2", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "a4ace496-ddd7-4477-b795-60777d5d8c30", 
+    "url": null
+}

@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.340703+00:00", 
+    "data": {
+        "activityID": [
+            "RFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "As in RFMIP-ERF-PI-Cntrl but with present-day land use", 
+        "endYear": "", 
+        "experiment": "effective radiative forcing by present-day land use", 
+        "minNumberYrsPerSim": "30", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 161, 
+    "labels": {
+        "en": "piClim-lu"
+    }, 
+    "name": "piclim-lu", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "9761daeb-76d7-44ff-8e36-c8c51df4625f", 
+    "url": null
+}

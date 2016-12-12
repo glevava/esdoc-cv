@@ -1,0 +1,39 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.348351+00:00", 
+    "data": {
+        "activityID": [
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Historical (non-CH4) WMGHG concentrations and NTCF emissions, 1850 CH4 concentrations", 
+        "endYear": "2014", 
+        "experiment": "historical SSTs and historical forcing, but with pre-industrial methane concentrations", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER", 
+            "CHEM"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 234, 
+    "labels": {
+        "en": "histSST-piCH4"
+    }, 
+    "name": "histsst-pich4", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "41e1fdff-e81b-4699-b932-a3f493cea0dd", 
+    "url": null
+}

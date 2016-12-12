@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.348981+00:00", 
+    "data": {
+        "activityID": [
+            "RFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "As in RFMIP-ERF-PI-Cntrl but with 4xCO2", 
+        "endYear": "", 
+        "experiment": "effective radiative forcing by 4xCO2", 
+        "minNumberYrsPerSim": "30", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 240, 
+    "labels": {
+        "en": "piClim-4xCO2"
+    }, 
+    "name": "piclim-4xco2", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "a7507522-5617-48f2-bb6c-33bbcf3ba815", 
+    "url": null
+}

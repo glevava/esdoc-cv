@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.343051+00:00", 
+    "data": {
+        "activityID": [
+            "LUMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Same as CMIP6 historical but with land cover held at 1850, no human activity; concentration driven", 
+        "endYear": "2014", 
+        "experiment": "historical with no land-use change", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 184, 
+    "labels": {
+        "en": "hist-noLu"
+    }, 
+    "name": "hist-nolu", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "70ef77ec-6697-42e5-9ef7-f126eff1bf73", 
+    "url": null
+}

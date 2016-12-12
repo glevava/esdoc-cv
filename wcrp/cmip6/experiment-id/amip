@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.349399+00:00", 
+    "data": {
+        "activityID": [
+            "CMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "DECK: AMIP", 
+        "endYear": "2014", 
+        "experiment": "AMIP", 
+        "minNumberYrsPerSim": "36", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "1979", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 244, 
+    "labels": {
+        "en": "amip"
+    }, 
+    "name": "amip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "4aeb513d-5470-4bb3-b3f9-1b58afdfa444", 
+    "url": null
+}

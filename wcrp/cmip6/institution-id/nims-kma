@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.321005+00:00", 
+    "data": {
+        "postalAddress": "National Institute of Meteorological Sciences/Korea Meteorological Administration, Climate Research Division, Seoho-bukro 33, Seogwipo-si, Jejudo 63568, Republic of Korea"
+    }, 
+    "description": null, 
+    "idx": 13, 
+    "labels": {
+        "en": "NIMS-KMA"
+    }, 
+    "name": "nims-kma", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "4f4766dc-6492-45f9-87eb-9e957b10d1d0", 
+    "url": null
+}

@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.344162+00:00", 
+    "data": {
+        "activityID": [
+            "GeoMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Time slice at 2100 (G6solar)", 
+        "endYear": "", 
+        "experiment": "SSTs from year 2020 of SSP5-8.5; forcings and other prescribed conditions from year 2100 of G6solar", 
+        "minNumberYrsPerSim": "10", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 195, 
+    "labels": {
+        "en": "G6SST2-solar"
+    }, 
+    "name": "g6sst2-solar", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "3063e348-02ab-4ef2-8559-3f0c4018c6b9", 
+    "url": null
+}

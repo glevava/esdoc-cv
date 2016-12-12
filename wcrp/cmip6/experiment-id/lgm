@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.341299+00:00", 
+    "data": {
+        "activityID": [
+            "PMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "main forcings : ice-sheet; trace gases, orbital parameters dust (forcing, or feedback if dust cycle represented in model)", 
+        "endYear": "", 
+        "experiment": "last glacial maximum", 
+        "minNumberYrsPerSim": "100", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 167, 
+    "labels": {
+        "en": "lgm"
+    }, 
+    "name": "lgm", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "8c124db3-ccde-43b7-bda1-28d6d0a8a4d0", 
+    "url": null
+}

@@ -1,0 +1,44 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.330145+00:00", 
+    "data": {
+        "activityID": [
+            "HighResMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Extend Forced_Atmos_land to 2050 with agreed forcings (with option to extend further to 2100)", 
+        "endYear": "2050", 
+        "experiment": "forced atmosphere experiment for 2015-2050 using SST/sea-ice derived from CMIP5 RCP8.5 simulations and a scenario as close to RCP8.5 as possible within CMIP6", 
+        "minNumberYrsPerSim": "36", 
+        "parentActivityID": [
+            "HighResMIP"
+        ], 
+        "parentExperimentID": [
+            "highresSST-present"
+        ], 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 51, 
+    "labels": {
+        "en": "highresSST-future"
+    }, 
+    "name": "highressst-future", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "38eb0c57-114d-40fb-b8a0-3a0fa6d6426c", 
+    "url": null
+}

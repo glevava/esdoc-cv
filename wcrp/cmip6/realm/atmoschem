@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.314835+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 3, 
+    "labels": {
+        "en": "atmosChem"
+    }, 
+    "name": "atmoschem", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "d37c9559-d197-48ad-bc2e-dc72b60e7c26", 
+    "url": null
+}

@@ -1,0 +1,46 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.332203+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Effects of volcanoes on decadal prediction and predictability of forced and internal variability components", 
+        "endYear": "1982", 
+        "experiment": "", 
+        "minNumberYrsPerSim": "5", 
+        "parentActivityID": [
+            "DCPP"
+        ], 
+        "parentExperimentID": [
+            "dcppA-assim", 
+            ""
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1982", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 73, 
+    "labels": {
+        "en": "dcppC-hindcast-noElChichon"
+    }, 
+    "name": "dcppc-hindcast-noelchichon", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "2bcea710-d8fc-4525-8d1b-af15eeaa20e4", 
+    "url": null
+}

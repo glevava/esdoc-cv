@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.328086+00:00", 
+    "data": {
+        "activityID": [
+            "RFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "As in RFMIP-ERF-PI-Cntrl but with present-day anthropogenic forcing (greenhouse gases, aerosols and land-use)", 
+        "endYear": "", 
+        "experiment": "effective radiative forcing by present day anthropogenic agents", 
+        "minNumberYrsPerSim": "30", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 29, 
+    "labels": {
+        "en": "piClim-anthro"
+    }, 
+    "name": "piclim-anthro", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "29c0d8d9-a4c1-4ecf-8fdd-46d30a4810de", 
+    "url": null
+}

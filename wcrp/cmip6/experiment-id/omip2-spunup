@@ -1,0 +1,37 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.347619+00:00", 
+    "data": {
+        "activityID": [
+            "OMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Same as the omipv2 experiment except that it is not initialized with observed climatologies; rather it is initialized with results from at least a 2000-year spin up of the coupled physical-biogeochemical models. Also it includes radiocarbon to evaluate deep-ocean circulation", 
+        "endYear": "310", 
+        "experiment": "OMIP experiment forced by JRA-55 atmospheric data set and initialized from at least a 2000-year spin up of the coupled physical-biogeochemical model", 
+        "minNumberYrsPerSim": "310", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "OGCM"
+        ], 
+        "startYear": "1", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 227, 
+    "labels": {
+        "en": "omip2-spunup"
+    }, 
+    "name": "omip2-spunup", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "c171772e-42b8-4bdb-9589-190ecf09427e", 
+    "url": null
+}

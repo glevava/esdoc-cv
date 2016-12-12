@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.336410+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Assimilation runs used to generate initial conditions for hindcasts if used", 
+        "endYear": "", 
+        "experiment": "assimilation run (if available) that is used to generate initial conditions for hindcasts and which parallels the historical simulation and uses the same forcing", 
+        "minNumberYrsPerSim": "", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 117, 
+    "labels": {
+        "en": "dcppA-assim"
+    }, 
+    "name": "dcppa-assim", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "669a3c9b-7840-424f-a371-0c25368598e6", 
+    "url": null
+}

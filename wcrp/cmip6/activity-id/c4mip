@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.316738+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 2, 
+    "labels": {
+        "en": "C4MIP"
+    }, 
+    "name": "c4mip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "955f20ec-d1c6-493a-abd2-25ccd426458c", 
+    "url": null
+}

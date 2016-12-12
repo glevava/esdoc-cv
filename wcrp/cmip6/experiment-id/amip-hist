@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.326407+00:00", 
+    "data": {
+        "activityID": [
+            "GMMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Extended AMIP run that covers 1870-2014. All natural and anthropogenic historical forcings as used in CMIP6 Historical Simulation will be included. AGCM resolution as CMIP6 Historical Simulation. The HadISST data will be used", 
+        "endYear": "2014", 
+        "experiment": "AMIP-style simulation covering the period 1870-2014", 
+        "minNumberYrsPerSim": "144", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "1870", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 10, 
+    "labels": {
+        "en": "amip-hist"
+    }, 
+    "name": "amip-hist", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "e0dc4080-edf7-44a1-acd2-25bea6e849a6", 
+    "url": null
+}

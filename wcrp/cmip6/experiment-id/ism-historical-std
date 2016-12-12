@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.345350+00:00", 
+    "data": {
+        "activityID": [
+            "ISMIP6"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is the standard dataset based on CMIP6 AOGCM historical", 
+        "endYear": "2014", 
+        "experiment": "offline ice sheet forced by ISMIP6-specified AOGCM historical output", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": [
+            "ISMIP6"
+        ], 
+        "parentExperimentID": [
+            "ism-pdControl-std"
+        ], 
+        "requiredModelComponents": [
+            "ISM"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 206, 
+    "labels": {
+        "en": "ism-historical-std"
+    }, 
+    "name": "ism-historical-std", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "93c1e761-8557-4978-8f49-da9ac3fcc7d9", 
+    "url": null
+}

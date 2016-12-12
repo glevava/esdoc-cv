@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.348877+00:00", 
+    "data": {
+        "activityID": [
+            "RFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Time-varying forcing by aerosols. SST and sea ice fixed at preindustrial control. Interactive vegetation", 
+        "endYear": "2100", 
+        "experiment": "transient effective radiative forcing by aerosols", 
+        "minNumberYrsPerSim": "251", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 239, 
+    "labels": {
+        "en": "piClim-histaer03"
+    }, 
+    "name": "piclim-histaer03", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "d23d3210-7276-4be0-99a2-c2c4623731ff", 
+    "url": null
+}

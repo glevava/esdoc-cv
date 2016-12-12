@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.335836+00:00", 
+    "data": {
+        "activityID": [
+            "ScenarioMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Future scenario with low radiative forcing by the end of century. Following a forcing pathway below RCP2.6. Specific SSP and 2100 forcing level to be finalized with IAM groups within next few months. Concentration-driven", 
+        "endYear": "2100", 
+        "experiment": "low-end scenario informing 1.5C goal", 
+        "minNumberYrsPerSim": "86", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "historical"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 111, 
+    "labels": {
+        "en": "sspxy"
+    }, 
+    "name": "sspxy", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "d63170be-6a9a-4679-89ce-1f1d2feea017", 
+    "url": null
+}

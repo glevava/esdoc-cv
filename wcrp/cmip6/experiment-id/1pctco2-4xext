@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.349186+00:00", 
+    "data": {
+        "activityID": [
+            "ISMIP6"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "branched from 1pctCO2 run at year 140 and run with CO2 fixed at 4x pre-industrial concentration", 
+        "endYear": "", 
+        "experiment": "extension from year 140 of 1pctCO2 with 4xCO2", 
+        "minNumberYrsPerSim": "210", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "1pctCO2"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 242, 
+    "labels": {
+        "en": "1pctCO2-4xext"
+    }, 
+    "name": "1pctco2-4xext", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "d1054583-60f0-447f-bede-95e39edce5c6", 
+    "url": null
+}

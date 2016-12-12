@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.317534+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 11, 
+    "labels": {
+        "en": "ISMIP6"
+    }, 
+    "name": "ismip6", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "026202b3-54ab-4deb-b8f4-534a44347747", 
+    "url": null
+}

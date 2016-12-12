@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.337183+00:00", 
+    "data": {
+        "activityID": [
+            "DAMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Historical anthropogenic-Aerosols-only run", 
+        "endYear": "2020", 
+        "experiment": "historical anthropogenic aerosols-only run", 
+        "minNumberYrsPerSim": "171", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1850", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 125, 
+    "labels": {
+        "en": "hist-aer"
+    }, 
+    "name": "hist-aer", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "49cde802-c15b-4162-a9c7-13898439e3b3", 
+    "url": null
+}

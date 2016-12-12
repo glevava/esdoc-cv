@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.321940+00:00", 
+    "data": {
+        "postalAddress": "Institute of Atmospheric Physics, Chinese Academy of Sciences, Beijing 100029, China"
+    }, 
+    "description": null, 
+    "idx": 23, 
+    "labels": {
+        "en": "LASG-IAP"
+    }, 
+    "name": "lasg-iap", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "9f4107f7-d041-40a9-bdd1-c253fdac0d77", 
+    "url": null
+}

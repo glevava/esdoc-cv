@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.344569+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+        "endYear": "", 
+        "experiment": "pacemaker pacific experiment", 
+        "minNumberYrsPerSim": "", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 199, 
+    "labels": {
+        "en": "dcppC-pac-pacemaker"
+    }, 
+    "name": "dcppc-pac-pacemaker", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "37306ef6-ec0e-4cc4-90f7-0ed201732e1c", 
+    "url": null
+}

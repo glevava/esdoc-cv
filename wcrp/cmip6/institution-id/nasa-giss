@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.321589+00:00", 
+    "data": {
+        "postalAddress": "Goddard Institute for Space Studies, New York, NY 10025, USA"
+    }, 
+    "description": null, 
+    "idx": 19, 
+    "labels": {
+        "en": "NASA-GISS"
+    }, 
+    "name": "nasa-giss", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "cbb306c6-96b4-4e56-a0c2-cf2c1ea8c8cb", 
+    "url": null
+}

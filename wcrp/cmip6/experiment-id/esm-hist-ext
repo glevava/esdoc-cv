@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.327465+00:00", 
+    "data": {
+        "activityID": [
+            "CMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Extension beyond 2014 of the CMIP6 historical (CO2 emission-driven)", 
+        "endYear": "", 
+        "experiment": "post-2014 all-forcing simulation with atmospheric CO2 concentration calculated", 
+        "minNumberYrsPerSim": "1", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "esm-hist"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM", 
+            "BGC"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 22, 
+    "labels": {
+        "en": "esm-hist-ext"
+    }, 
+    "name": "esm-hist-ext", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "4052c627-d69e-4c63-9f21-8a98ee87b3ce", 
+    "url": null
+}

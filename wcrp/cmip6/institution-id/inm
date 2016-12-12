@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.322030+00:00", 
+    "data": {
+        "postalAddress": "Institute for Numerical Mathematics, Moscow 119991, Russia"
+    }, 
+    "description": null, 
+    "idx": 24, 
+    "labels": {
+        "en": "INM"
+    }, 
+    "name": "inm", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "d42ec7fe-9a95-471a-8cf8-e7186818d382", 
+    "url": null
+}

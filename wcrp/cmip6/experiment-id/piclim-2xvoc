@@ -1,0 +1,39 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.331245+00:00", 
+    "data": {
+        "activityID": [
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "1850 control with doubled emissions of biogenic VOCs", 
+        "endYear": "", 
+        "experiment": "pre-industrial climatological SSTs and forcing, but with doubled emissions of biogenic VOCs", 
+        "minNumberYrsPerSim": "30", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER", 
+            "CHEM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 63, 
+    "labels": {
+        "en": "piClim-2xVOC"
+    }, 
+    "name": "piclim-2xvoc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "8580bc1d-1174-41d1-baee-412efbb981d9", 
+    "url": null
+}

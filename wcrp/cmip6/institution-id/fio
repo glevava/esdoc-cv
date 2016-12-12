@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.321765+00:00", 
+    "data": {
+        "postalAddress": "The First Institution of Oceanography (SOA), Qingdao, China"
+    }, 
+    "description": null, 
+    "idx": 21, 
+    "labels": {
+        "en": "FIO"
+    }, 
+    "name": "fio", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "99282f6f-c498-42aa-b811-c11073c21b67", 
+    "url": null
+}

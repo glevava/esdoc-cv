@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.317967+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 16, 
+    "labels": {
+        "en": "RFMIP"
+    }, 
+    "name": "rfmip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "43b8baba-a49c-4c78-9c25-59fb6dbbde0f", 
+    "url": null
+}

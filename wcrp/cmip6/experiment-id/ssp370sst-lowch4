@@ -1,0 +1,39 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.333196+00:00", 
+    "data": {
+        "activityID": [
+            "AerChemMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Future SSP3-7.0 with reduced CH4 concentrations, prescribed SSTs", 
+        "endYear": "2055", 
+        "experiment": "SSP3-7.0, prescribed SSTs, with low methane concentrations", 
+        "minNumberYrsPerSim": "41", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM", 
+            "AER", 
+            "CHEM"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 83, 
+    "labels": {
+        "en": "ssp370SST-lowCH4"
+    }, 
+    "name": "ssp370sst-lowch4", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "ef70316c-ddaf-4f63-bd63-d508caa295e8", 
+    "url": null
+}

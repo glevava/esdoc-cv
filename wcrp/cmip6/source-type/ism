@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.316087+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 7, 
+    "labels": {
+        "en": "ISM"
+    }, 
+    "name": "ism", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "c5ccddcd-e2fb-4694-ab04-76a7880532de", 
+    "url": null
+}

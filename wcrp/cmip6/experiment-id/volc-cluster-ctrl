@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.343661+00:00", 
+    "data": {
+        "activityID": [
+            "VolMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Early 19th century cluster of strong tropical volcanic eruptions, including the 1809 event of unknown location, the 1815 Tambora and 1835 Cosigueina eruptions. Experiment initialized from PiControl", 
+        "endYear": "", 
+        "experiment": "19th century volcanic cluster initialized from PiControl", 
+        "minNumberYrsPerSim": "50", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "piControl"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 190, 
+    "labels": {
+        "en": "volc-cluster-ctrl"
+    }, 
+    "name": "volc-cluster-ctrl", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "6e7da741-8b49-4ac9-98f1-d864f2a7020d", 
+    "url": null
+}

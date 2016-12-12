@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.328347+00:00", 
+    "data": {
+        "activityID": [
+            "HighResMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Coupled integrations, at least one with constant 1950\"s forcing (CTL) and one or more with historic and then RCP4.5 (as in Forced_Atmos_Land, EXP)", 
+        "endYear": "2014", 
+        "experiment": "coupled historical 1950-2014", 
+        "minNumberYrsPerSim": "64", 
+        "parentActivityID": [
+            "HighResMIP"
+        ], 
+        "parentExperimentID": [
+            "control-1950"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1951", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 32, 
+    "labels": {
+        "en": "hist-1950"
+    }, 
+    "name": "hist-1950", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "621a9fae-4fdc-416f-9cdf-56a4040c0677", 
+    "url": null
+}

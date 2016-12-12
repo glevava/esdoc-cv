@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.328444+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+        "endYear": "", 
+        "experiment": "predictability of 1990s warming of Atlantic sub-polar gyre", 
+        "minNumberYrsPerSim": "", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 33, 
+    "labels": {
+        "en": "dcppC-atl-spg"
+    }, 
+    "name": "dcppc-atl-spg", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "3c1976f5-81eb-4253-a6d1-8e147e4afb71", 
+    "url": null
+}

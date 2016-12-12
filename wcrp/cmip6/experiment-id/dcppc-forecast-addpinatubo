@@ -1,0 +1,46 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.342250+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Effects of volcanoes on decadal prediction and predictability of forced and internal variability components", 
+        "endYear": "2015", 
+        "experiment": "2015 forecast with added Pinatubo forcing", 
+        "minNumberYrsPerSim": "5", 
+        "parentActivityID": [
+            "DCPP"
+        ], 
+        "parentExperimentID": [
+            "dcppA-assim", 
+            ""
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "2015", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 176, 
+    "labels": {
+        "en": "dcppC-forecast-addPinatubo"
+    }, 
+    "name": "dcppc-forecast-addpinatubo", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "b4593024-e3ea-4d67-b223-1610a86bab92", 
+    "url": null
+}

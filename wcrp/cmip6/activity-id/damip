@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.317001+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 5, 
+    "labels": {
+        "en": "DAMIP"
+    }, 
+    "name": "damip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "7c595a61-5ab1-4844-a193-621ac33e79c6", 
+    "url": null
+}

@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.314645+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 1, 
+    "labels": {
+        "en": "aerosol"
+    }, 
+    "name": "aerosol", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "0e50d8d4-e533-4791-8cee-ca843fba596b", 
+    "url": null
+}

@@ -1,0 +1,38 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.341197+00:00", 
+    "data": {
+        "activityID": [
+            "LS3MIP", 
+            "LUMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Land only simulations", 
+        "endYear": "2014", 
+        "experiment": "historical land-only", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "LAND"
+        ], 
+        "startYear": "1850 or 1700", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 166, 
+    "labels": {
+        "en": "land-hist"
+    }, 
+    "name": "land-hist", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "8e7ed957-58c7-4b45-9cea-d8cf4389fb72", 
+    "url": null
+}

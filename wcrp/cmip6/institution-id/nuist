@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.322207+00:00", 
+    "data": {
+        "postalAddress": "Nanjing University of Information Science & Technology, Nanjing, 210044, China"
+    }, 
+    "description": null, 
+    "idx": 26, 
+    "labels": {
+        "en": "NUIST"
+    }, 
+    "name": "nuist", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "38c897ab-5cb3-403e-98a3-b2273304d154", 
+    "url": null
+}

@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.320030+00:00", 
+    "data": {
+        "postalAddress": "Canadian Centre for Climate Modelling and Analysis, Victoria, BC V8P 5C2, Canada"
+    }, 
+    "description": null, 
+    "idx": 2, 
+    "labels": {
+        "en": "CCCma"
+    }, 
+    "name": "cccma", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "00250c1f-57f2-4c54-b166-8846ea6c9463", 
+    "url": null
+}

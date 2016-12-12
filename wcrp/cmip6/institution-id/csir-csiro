@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.319941+00:00", 
+    "data": {
+        "postalAddress": "CSIR (Council for Scientific and Industrial Research - Natural Resources and the Environment, Pretoria, 0001, South Africa), CSIRO (Commonwealth Scientific and Industrial Research Organisation and Bureau of Meteorology, Melbourne, Victoria 3208, Australia)"
+    }, 
+    "description": null, 
+    "idx": 1, 
+    "labels": {
+        "en": "CSIR-CSIRO"
+    }, 
+    "name": "csir-csiro", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "f3dc59cf-f881-4143-b9b0-5f22fa632e70", 
+    "url": null
+}

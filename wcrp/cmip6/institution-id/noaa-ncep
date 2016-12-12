@@ -1,0 +1,21 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.321267+00:00", 
+    "data": {
+        "postalAddress": "National Oceanic and Atmospheric Administration, National Centers for Environmental Prediction, Camp Springs, MD 20746, USA"
+    }, 
+    "description": null, 
+    "idx": 16, 
+    "labels": {
+        "en": "NOAA-NCEP"
+    }, 
+    "name": "noaa-ncep", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "41b46c52-4938-4f12-82a8-76923a14e3eb", 
+    "url": null
+}

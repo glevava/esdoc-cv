@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.317791+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 14, 
+    "labels": {
+        "en": "OMIP"
+    }, 
+    "name": "omip", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "23e54f55-69b5-4889-a205-547307c41795", 
+    "url": null
+}

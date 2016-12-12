@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.326053+00:00", 
+    "data": {
+        "activityID": [
+            "CFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Extended version of CMIP5/CFMIP-2 aqua4K experiment. Aquaplanet experiment where SSTs are subject to a uniform warming of 4K", 
+        "endYear": "", 
+        "experiment": "aquaplanet with uniform 4K SST increase", 
+        "minNumberYrsPerSim": "10", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 6, 
+    "labels": {
+        "en": "aqua-p4K"
+    }, 
+    "name": "aqua-p4k", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "9821ce81-96d6-44be-8fee-29c365039465", 
+    "url": null
+}

@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.343561+00:00", 
+    "data": {
+        "activityID": [
+            "CFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Extended version of CMIP5/CFMIP-2 aquaControl experiment. Aquaplanet (no land) experiment with no seasonal cycle forced with specified zonally symmetric SSTs", 
+        "endYear": "", 
+        "experiment": "aquaplanet control", 
+        "minNumberYrsPerSim": "10", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 189, 
+    "labels": {
+        "en": "aqua-control"
+    }, 
+    "name": "aqua-control", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "93f545af-3b2b-475c-afda-872dead906d3", 
+    "url": null
+}

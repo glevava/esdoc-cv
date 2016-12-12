@@ -1,0 +1,41 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.340117+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+        "endYear": "", 
+        "experiment": "pacemaker atlantic experiment", 
+        "minNumberYrsPerSim": "", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "3"
+    }, 
+    "description": null, 
+    "idx": 155, 
+    "labels": {
+        "en": "dcppC-atl-pacemaker"
+    }, 
+    "name": "dcppc-atl-pacemaker", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "ed97da96-f2dd-4a75-9936-1258f7b1240e", 
+    "url": null
+}

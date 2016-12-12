@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.337569+00:00", 
+    "data": {
+        "activityID": [
+            "CFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "Same as piSST, but with a spatially and temporally uniform SST anomaly applied on top of the monthly-varying piSST SSTs. The magnitude of the uniform increase is taken from each model's global, climatological annual mean SST change between abrupt4xCO2 minus piControl (using the mean of years 111-140 of abrupt4xCO2, and the parallel 30-year section of piControl)", 
+        "endYear": "", 
+        "experiment": "as piSST with uniform SST increase with magnitude based on abrupt4xCO2 response", 
+        "minNumberYrsPerSim": "20", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 129, 
+    "labels": {
+        "en": "piSST-pxK"
+    }, 
+    "name": "pisst-pxk", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "3935f717-b00c-442e-970c-13f5e2b8c8c4", 
+    "url": null
+}

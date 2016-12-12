@@ -1,0 +1,45 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.345146+00:00", 
+    "data": {
+        "activityID": [
+            "LS3MIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Initialized pseudo-observations land", 
+        "endYear": "2014", 
+        "experiment": "initialized from \"historical\" run year 1980, but with land conditions initialized from pseudo-observations", 
+        "minNumberYrsPerSim": "35", 
+        "parentActivityID": [
+            "CMIP"
+        ], 
+        "parentExperimentID": [
+            "historical"
+        ], 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1980", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 204, 
+    "labels": {
+        "en": "lfmip-initLC"
+    }, 
+    "name": "lfmip-initlc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "b212a83f-4a58-423b-827a-bc2e82867c4e", 
+    "url": null
+}

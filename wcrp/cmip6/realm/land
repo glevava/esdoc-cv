@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.314929+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 4, 
+    "labels": {
+        "en": "land"
+    }, 
+    "name": "land", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "68ffbaf2-d6ca-44a5-9e1d-34d7611ec3b5", 
+    "url": null
+}

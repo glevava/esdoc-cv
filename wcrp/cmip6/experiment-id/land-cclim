@@ -1,0 +1,37 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.337084+00:00", 
+    "data": {
+        "activityID": [
+            "LUMIP"
+        ], 
+        "additionalAllowedModelComponents": "", 
+        "description": "Same as land-hist except with climate held constant", 
+        "endYear": "2014", 
+        "experiment": "historical land-only constant climate", 
+        "minNumberYrsPerSim": "165", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "LAND"
+        ], 
+        "startYear": "1850 or 1700", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 124, 
+    "labels": {
+        "en": "land-cClim"
+    }, 
+    "name": "land-cclim", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "1fb512f5-1a47-4ebc-9272-94c1c52e56bf", 
+    "url": null
+}

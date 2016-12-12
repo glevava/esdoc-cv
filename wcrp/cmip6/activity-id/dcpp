@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.317093+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 6, 
+    "labels": {
+        "en": "DCPP"
+    }, 
+    "name": "dcpp", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "869cac9a-d6f5-45be-820e-438e0596ea3e", 
+    "url": null
+}

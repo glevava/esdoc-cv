@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.330692+00:00", 
+    "data": {
+        "activityID": [
+            "RFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "As in RFMIP-ERF-PI-Cntrl but with present-day greenhouse gases", 
+        "endYear": "", 
+        "experiment": "effective radiative forcing by present-day greenhouse gases", 
+        "minNumberYrsPerSim": "30", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 57, 
+    "labels": {
+        "en": "piClim-ghg"
+    }, 
+    "name": "piclim-ghg", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "3dd2a9a6-259d-4285-a83a-1612b5ccb05d", 
+    "url": null
+}

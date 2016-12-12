@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.315551+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 1, 
+    "labels": {
+        "en": "AER"
+    }, 
+    "name": "aer", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "bafe986e-31a0-4d84-8187-52aad0fc7c2e", 
+    "url": null
+}

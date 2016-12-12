@@ -1,0 +1,40 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-12 17:09:13.349293+00:00", 
+    "data": {
+        "activityID": [
+            "RFMIP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM"
+        ], 
+        "description": "As in RFMIP-ERF-PI-Cntrl but with with present-day aerosols and ozone", 
+        "endYear": "", 
+        "experiment": "effective radiative forcing by present-day aerosols and ozone", 
+        "minNumberYrsPerSim": "30", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AGCM"
+        ], 
+        "startYear": "", 
+        "subExperiment": "none", 
+        "subExperimentID": "none", 
+        "tier": "1"
+    }, 
+    "description": null, 
+    "idx": 243, 
+    "labels": {
+        "en": "piClim-aerO3"
+    }, 
+    "name": "piclim-aero3", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "dacd46d7-4c63-4e26-9265-7e7a29ad8183", 
+    "url": null
+}
