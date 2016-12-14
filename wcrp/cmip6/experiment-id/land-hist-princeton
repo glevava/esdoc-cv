@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.338449+00:00", 
+    "createDate": "2016-12-12 21:57:04.770976+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 138, 
-    "labels": {
-        "en": "land-hist-princeton"
-    }, 
+    "label": "land-hist-princeton", 
     "name": "land-hist-princeton", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8f62b7b9-4f5b-46a6-b217-e5b4e08adbf0", 
+    "uid": "65e596f5-114a-4729-984b-8bd64a02833b", 
     "url": null
 }

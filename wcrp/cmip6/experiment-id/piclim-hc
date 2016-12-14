@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.335172+00:00", 
+    "createDate": "2016-12-12 21:57:04.767629+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -27,13 +27,11 @@
     }, 
     "description": null, 
     "idx": 104, 
-    "labels": {
-        "en": "piClim-HC"
-    }, 
+    "label": "piClim-HC", 
     "name": "piclim-hc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "4e03e042-042f-4cee-8dec-d5af4b18c0f9", 
+    "uid": "af10913b-2bc4-4c90-b49e-ca1f5a8d5a7d", 
     "url": null
 }

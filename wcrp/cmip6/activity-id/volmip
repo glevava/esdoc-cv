@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.318136+00:00", 
+    "createDate": "2016-12-12 21:57:04.753192+00:00", 
     "data": null, 
     "description": null, 
     "idx": 18, 
-    "labels": {
-        "en": "VolMIP"
-    }, 
+    "label": "VolMIP", 
     "name": "volmip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "23ed7f38-0aab-436f-baa0-7a3ad8da52d6", 
+    "uid": "7c059c32-dae5-4a23-a8ba-f9c60503691d", 
     "url": null
 }

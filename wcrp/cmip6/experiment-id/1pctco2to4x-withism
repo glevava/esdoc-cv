@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.335076+00:00", 
+    "createDate": "2016-12-12 21:57:04.767534+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 103, 
-    "labels": {
-        "en": "1pctCO2to4x-withism"
-    }, 
+    "label": "1pctCO2to4x-withism", 
     "name": "1pctco2to4x-withism", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "6c968008-e22c-4061-a21d-3715b7b8334a", 
+    "uid": "d0a6fefb-09b0-45f1-b912-8484e134bc94", 
     "url": null
 }

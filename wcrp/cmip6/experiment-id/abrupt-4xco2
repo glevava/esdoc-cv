@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.334793+00:00", 
+    "createDate": "2016-12-12 21:57:04.767253+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 100, 
-    "labels": {
-        "en": "abrupt-4xCO2"
-    }, 
+    "label": "abrupt-4xCO2", 
     "name": "abrupt-4xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "ef8979a1-d8da-4d44-8067-35e803e74641", 
+    "uid": "4e411169-5b7f-4479-8184-a5387b8631fb", 
     "url": null
 }

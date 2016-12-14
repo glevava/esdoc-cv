@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.317350+00:00", 
+    "createDate": "2016-12-12 21:57:04.752401+00:00", 
     "data": null, 
     "description": null, 
     "idx": 9, 
-    "labels": {
-        "en": "GeoMIP"
-    }, 
+    "label": "GeoMIP", 
     "name": "geomip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7ab4e093-cbb9-4d5a-96a7-9644dfa335f4", 
+    "uid": "422212b5-48b3-441c-9c08-cb9bc19b4cc3", 
     "url": null
 }

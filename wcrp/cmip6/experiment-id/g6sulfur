@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.344063+00:00", 
+    "createDate": "2016-12-12 21:57:04.776530+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 194, 
-    "labels": {
-        "en": "G6sulfur"
-    }, 
+    "label": "G6sulfur", 
     "name": "g6sulfur", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "a47b10db-cfa0-4e17-b33b-84767031d8b2", 
+    "uid": "f8b90064-7b7e-4d2c-bfbb-dbffa445142f", 
     "url": null
 }

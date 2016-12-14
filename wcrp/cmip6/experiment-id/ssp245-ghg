@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.325598+00:00", 
+    "createDate": "2016-12-12 21:57:04.758128+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 1, 
-    "labels": {
-        "en": "ssp245-GHG"
-    }, 
+    "label": "ssp245-GHG", 
     "name": "ssp245-ghg", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "68a66c9d-2832-44db-a696-3ad480ee992c", 
+    "uid": "56c7ac8a-39cb-473b-b9e2-ca1801213d21", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.341407+00:00", 
+    "createDate": "2016-12-12 21:57:04.773919+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 168, 
-    "labels": {
-        "en": "hist-spAer-all"
-    }, 
+    "label": "hist-spAer-all", 
     "name": "hist-spaer-all", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "052a890f-6723-42d2-901a-3dc6046ca348", 
+    "uid": "ebdd0ae1-5adf-4d6b-be2f-2f68751a5137", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.337960+00:00", 
+    "createDate": "2016-12-12 21:57:04.770487+00:00", 
     "data": {
         "activityID": [
             "C4MIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 133, 
-    "labels": {
-        "en": "hist-bgc"
-    }, 
+    "label": "hist-bgc", 
     "name": "hist-bgc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e785057e-1f2f-45f7-8cfd-06627e1095ac", 
+    "uid": "fa621cff-32e9-43a5-8247-e696cf99a51a", 
     "url": null
 }

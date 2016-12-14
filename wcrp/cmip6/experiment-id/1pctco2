@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.333571+00:00", 
+    "createDate": "2016-12-12 21:57:04.765985+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 87, 
-    "labels": {
-        "en": "1pctCO2"
-    }, 
+    "label": "1pctCO2", 
     "name": "1pctco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "a4ace496-ddd7-4477-b795-60777d5d8c30", 
+    "uid": "9949a966-7b50-46a6-a84e-d331208e8d41", 
     "url": null
 }

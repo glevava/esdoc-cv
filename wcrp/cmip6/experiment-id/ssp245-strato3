@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.340901+00:00", 
+    "createDate": "2016-12-12 21:57:04.773426+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 163, 
-    "labels": {
-        "en": "ssp245-stratO3"
-    }, 
+    "label": "ssp245-stratO3", 
     "name": "ssp245-strato3", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c042c622-2a35-46e2-a618-143ed73e92b6", 
+    "uid": "b1167af1-1796-48d7-9b5b-581ee44a027b", 
     "url": null
 }

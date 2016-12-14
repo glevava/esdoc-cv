@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.333758+00:00", 
+    "createDate": "2016-12-12 21:57:04.766167+00:00", 
     "data": {
         "activityID": "AerChemMIP", 
         "additionalAllowedModelComponents": [
@@ -27,13 +27,11 @@
     }, 
     "description": null, 
     "idx": 89, 
-    "labels": {
-        "en": "piClim-SO2"
-    }, 
+    "label": "piClim-SO2", 
     "name": "piclim-so2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "2ef09dc3-6c30-4744-b6cd-7f7c17566eaa", 
+    "uid": "cc0282f4-c6e2-4d6d-b75c-924758c3eace", 
     "url": null
 }

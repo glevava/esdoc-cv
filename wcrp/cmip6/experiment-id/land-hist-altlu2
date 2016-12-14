@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.336603+00:00", 
+    "createDate": "2016-12-12 21:57:04.769051+00:00", 
     "data": {
         "activityID": "LUMIP", 
         "additionalAllowedModelComponents": "", 
@@ -23,13 +23,11 @@
     }, 
     "description": null, 
     "idx": 119, 
-    "labels": {
-        "en": "land-hist-altLu2"
-    }, 
+    "label": "land-hist-altLu2", 
     "name": "land-hist-altlu2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "fc70e48b-815e-4513-95c6-23c817f21fe5", 
+    "uid": "75a20ee3-aa4a-43d4-aaf3-cf48519452c8", 
     "url": null
 }

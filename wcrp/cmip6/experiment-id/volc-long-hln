@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.327377+00:00", 
+    "createDate": "2016-12-12 21:57:04.759909+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 21, 
-    "labels": {
-        "en": "volc-long-hlN"
-    }, 
+    "label": "volc-long-hlN", 
     "name": "volc-long-hln", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "27e06996-3011-42c5-b159-f4cae48b1d59", 
+    "uid": "7ef7a139-879d-404c-ab9a-1e76be8c0d88", 
     "url": null
 }

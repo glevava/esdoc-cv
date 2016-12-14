@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.338252+00:00", 
+    "createDate": "2016-12-12 21:57:04.770782+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 136, 
-    "labels": {
-        "en": "futureSST-4xCO2-solar"
-    }, 
+    "label": "futureSST-4xCO2-solar", 
     "name": "futuresst-4xco2-solar", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "bbe13030-8036-4d50-b308-07ce2520d662", 
+    "uid": "522d6b91-2dd5-41a1-a1e9-1000d7470df6", 
     "url": null
 }

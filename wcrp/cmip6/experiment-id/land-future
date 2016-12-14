@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.343863+00:00", 
+    "createDate": "2016-12-12 21:57:04.776327+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 192, 
-    "labels": {
-        "en": "land-future"
-    }, 
+    "label": "land-future", 
     "name": "land-future", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "55591a3d-c9cf-4154-8bf4-1f927c66ff74", 
+    "uid": "e78f6cb6-7868-44aa-bdec-756b19531250", 
     "url": null
 }

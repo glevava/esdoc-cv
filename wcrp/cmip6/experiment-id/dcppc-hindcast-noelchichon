@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.332203+00:00", 
+    "createDate": "2016-12-12 21:57:04.764687+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 73, 
-    "labels": {
-        "en": "dcppC-hindcast-noElChichon"
-    }, 
+    "label": "dcppC-hindcast-noElChichon", 
     "name": "dcppc-hindcast-noelchichon", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "2bcea710-d8fc-4525-8d1b-af15eeaa20e4", 
+    "uid": "194f56b0-c5e3-4019-8d1d-86c402b27d0e", 
     "url": null
 }

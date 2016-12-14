@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.348877+00:00", 
+    "createDate": "2016-12-12 21:57:04.781238+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 239, 
-    "labels": {
-        "en": "piClim-histaer03"
-    }, 
+    "label": "piClim-histaer03", 
     "name": "piclim-histaer03", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d23d3210-7276-4be0-99a2-c2c4623731ff", 
+    "uid": "46483c98-a37d-4ed6-a4c1-72fb492770c3", 
     "url": null
 }

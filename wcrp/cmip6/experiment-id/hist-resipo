@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.332769+00:00", 
+    "createDate": "2016-12-12 21:57:04.765236+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 79, 
-    "labels": {
-        "en": "hist-resIPO"
-    }, 
+    "label": "hist-resIPO", 
     "name": "hist-resipo", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3ea33110-0b01-4726-a3f7-1cee7e59257b", 
+    "uid": "b38bc46d-662b-45a5-ba2d-7ef8d0b0fe64", 
     "url": null
 }

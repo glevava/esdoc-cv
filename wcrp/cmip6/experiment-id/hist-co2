@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.332310+00:00", 
+    "createDate": "2016-12-12 21:57:04.764776+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 74, 
-    "labels": {
-        "en": "hist-CO2"
-    }, 
+    "label": "hist-CO2", 
     "name": "hist-co2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7fe755e6-8425-4357-87ba-961b705bba1c", 
+    "uid": "4fc45436-867c-4bef-b6c5-984f1ebb2c56", 
     "url": null
 }

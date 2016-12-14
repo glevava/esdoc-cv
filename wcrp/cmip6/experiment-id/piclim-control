@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.335363+00:00", 
+    "createDate": "2016-12-12 21:57:04.767815+00:00", 
     "data": {
         "activityID": [
             "RFMIP", 
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 106, 
-    "labels": {
-        "en": "piClim-control"
-    }, 
+    "label": "piClim-control", 
     "name": "piclim-control", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "bcda5349-1355-4dcf-9cf0-ea6839639609", 
+    "uid": "ad0a24bd-5811-4049-86e5-36c8e473ff8e", 
     "url": null
 }

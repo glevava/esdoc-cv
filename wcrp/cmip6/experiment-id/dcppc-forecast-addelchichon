@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.344366+00:00", 
+    "createDate": "2016-12-12 21:57:04.776835+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 197, 
-    "labels": {
-        "en": "dcppC-forecast-addElChichon"
-    }, 
+    "label": "dcppC-forecast-addElChichon", 
     "name": "dcppc-forecast-addelchichon", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "94fc3488-73a3-4484-8962-97d47e622cf8", 
+    "uid": "1fdd8a94-8595-4e52-8c7c-865e8305459b", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.326319+00:00", 
+    "createDate": "2016-12-12 21:57:04.758853+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 9, 
-    "labels": {
-        "en": "piClim-2xDMS"
-    }, 
+    "label": "piClim-2xDMS", 
     "name": "piclim-2xdms", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "a2c8a55c-38a9-459f-9395-3817e8cb99ad", 
+    "uid": "ec18a432-8fa0-472f-8979-835abb26ef6e", 
     "url": null
 }

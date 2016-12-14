@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.333005+00:00", 
+    "createDate": "2016-12-12 21:57:04.765422+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 81, 
-    "labels": {
-        "en": "hist-GHG"
-    }, 
+    "label": "hist-GHG", 
     "name": "hist-ghg", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "0881fcea-9693-47f1-b1f2-031f30edd193", 
+    "uid": "39c5fdc1-e5bf-4e65-a35c-6819f156f741", 
     "url": null
 }

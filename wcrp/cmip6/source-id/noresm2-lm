@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.319334+00:00", 
+    "createDate": "2016-12-12 21:57:04.754384+00:00", 
     "data": {
         "aerosol": "OsloAero", 
         "atmosphere": "CAM-OSLO (2 degree resolution; 144 x 96; 32 levels; top level 3 mb)", 
@@ -26,13 +26,11 @@
     }, 
     "description": null, 
     "idx": 10, 
-    "labels": {
-        "en": "NorESM2-LM"
-    }, 
+    "label": "NorESM2-LM", 
     "name": "noresm2-lm", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e6956cbb-efe2-4940-9fa4-4a138fef7452", 
+    "uid": "a6f50733-c2cb-417a-9a4d-3673e2083065", 
     "url": null
 }

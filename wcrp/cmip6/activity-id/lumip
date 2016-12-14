@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.317706+00:00", 
+    "createDate": "2016-12-12 21:57:04.752756+00:00", 
     "data": null, 
     "description": null, 
     "idx": 13, 
-    "labels": {
-        "en": "LUMIP"
-    }, 
+    "label": "LUMIP", 
     "name": "lumip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "fc4f7831-9116-4caa-a71d-ab467adc9566", 
+    "uid": "b1ade848-957d-4cb1-924f-b97766169590", 
     "url": null
 }

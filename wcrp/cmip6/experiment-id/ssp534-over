@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.347415+00:00", 
+    "createDate": "2016-12-12 21:57:04.779726+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 225, 
-    "labels": {
-        "en": "ssp534-over"
-    }, 
+    "label": "ssp534-over", 
     "name": "ssp534-over", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "20c1941f-b8da-4470-90f4-427fc788d2b6", 
+    "uid": "2a27751f-69f5-4769-a400-bfa033bfd116", 
     "url": null
 }

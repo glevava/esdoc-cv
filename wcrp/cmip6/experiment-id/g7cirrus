@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.336508+00:00", 
+    "createDate": "2016-12-12 21:57:04.768958+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 118, 
-    "labels": {
-        "en": "G7cirrus"
-    }, 
+    "label": "G7cirrus", 
     "name": "g7cirrus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "4f91dd7e-3c71-4d98-8c93-7b1ba88257ea", 
+    "uid": "c62b9dc9-ecb2-4d29-ad42-6d82c5db0894", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.344162+00:00", 
+    "createDate": "2016-12-12 21:57:04.776631+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 195, 
-    "labels": {
-        "en": "G6SST2-solar"
-    }, 
+    "label": "G6SST2-solar", 
     "name": "g6sst2-solar", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3063e348-02ab-4ef2-8559-3f0c4018c6b9", 
+    "uid": "4acf519b-91ac-4417-8d5f-2ac3554ca8e4", 
     "url": null
 }

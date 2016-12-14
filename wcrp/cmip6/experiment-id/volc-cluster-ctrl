@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.343661+00:00", 
+    "createDate": "2016-12-12 21:57:04.776121+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 190, 
-    "labels": {
-        "en": "volc-cluster-ctrl"
-    }, 
+    "label": "volc-cluster-ctrl", 
     "name": "volc-cluster-ctrl", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "6e7da741-8b49-4ac9-98f1-d864f2a7020d", 
+    "uid": "96d07b39-860a-4560-9839-8c720eeb97f7", 
     "url": null
 }

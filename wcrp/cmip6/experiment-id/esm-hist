@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.341652+00:00", 
+    "createDate": "2016-12-12 21:57:04.774116+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 170, 
-    "labels": {
-        "en": "esm-hist"
-    }, 
+    "label": "esm-hist", 
     "name": "esm-hist", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d7e81940-5f47-4aa9-9b03-807ff6bff0cb", 
+    "uid": "00b17555-b438-4f3b-af4f-01a475b76a65", 
     "url": null
 }

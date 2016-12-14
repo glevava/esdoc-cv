@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.318051+00:00", 
+    "createDate": "2016-12-12 21:57:04.753107+00:00", 
     "data": null, 
     "description": null, 
     "idx": 17, 
-    "labels": {
-        "en": "ScenarioMIP"
-    }, 
+    "label": "ScenarioMIP", 
     "name": "scenariomip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "19dba63c-b483-419d-8b31-4ef231021b96", 
+    "uid": "a5cb24d8-10e6-4d37-a54f-4a96d2fa5cc3", 
     "url": null
 }

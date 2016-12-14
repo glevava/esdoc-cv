@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.316002+00:00", 
+    "createDate": "2016-12-12 21:57:04.751045+00:00", 
     "data": null, 
     "description": null, 
     "idx": 6, 
-    "labels": {
-        "en": "ESM"
-    }, 
+    "label": "ESM", 
     "name": "esm", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "29517c3d-c12e-4d64-a1bf-1657cfea9107", 
+    "uid": "233924ef-da7b-4885-8d01-0406e1d1b04b", 
     "url": null
 }

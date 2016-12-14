@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.344266+00:00", 
+    "createDate": "2016-12-12 21:57:04.776734+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 196, 
-    "labels": {
-        "en": "land-noLu"
-    }, 
+    "label": "land-noLu", 
     "name": "land-nolu", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "760e15d2-26d6-46dd-9060-8ccb063e8eaf", 
+    "uid": "c0653579-f6e0-40e6-b806-6a6f6f5df818", 
     "url": null
 }

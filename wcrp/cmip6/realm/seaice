@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.315279+00:00", 
+    "createDate": "2016-12-12 21:57:04.750381+00:00", 
     "data": null, 
     "description": null, 
     "idx": 8, 
-    "labels": {
-        "en": "seaIce"
-    }, 
+    "label": "seaIce", 
     "name": "seaice", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "9b89a3c2-d546-4064-918a-9db1b1c5e7c6", 
+    "uid": "0bb6a6e0-e66b-401c-9483-040d9a910c15", 
     "url": null
 }

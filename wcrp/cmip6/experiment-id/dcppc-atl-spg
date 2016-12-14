@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.328444+00:00", 
+    "createDate": "2016-12-12 21:57:04.761050+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 33, 
-    "labels": {
-        "en": "dcppC-atl-spg"
-    }, 
+    "label": "dcppC-atl-spg", 
     "name": "dcppc-atl-spg", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3c1976f5-81eb-4253-a6d1-8e147e4afb71", 
+    "uid": "510acf1a-361a-443a-bfd8-cebbf99015c9", 
     "url": null
 }

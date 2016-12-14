@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.329343+00:00", 
+    "createDate": "2016-12-12 21:57:04.761938+00:00", 
     "data": {
         "activityID": [
             "C4MIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 43, 
-    "labels": {
-        "en": "1pctCO2Ndep-bgc"
-    }, 
+    "label": "1pctCO2Ndep-bgc", 
     "name": "1pctco2ndep-bgc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "143bb496-fb0a-4973-bf0d-e367e243af05", 
+    "uid": "1016d3b9-0500-4c61-bd4e-67a2eaf8a843", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.347100+00:00", 
+    "createDate": "2016-12-12 21:57:04.779421+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 222, 
-    "labels": {
-        "en": "esm-piControl-spinup"
-    }, 
+    "label": "esm-piControl-spinup", 
     "name": "esm-picontrol-spinup", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "f0403e4d-81de-4908-b338-eaf44c7e7b7f", 
+    "uid": "ce57130c-4f4f-4065-8595-25c4c262c09d", 
     "url": null
 }

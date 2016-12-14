@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.331620+00:00", 
+    "createDate": "2016-12-12 21:57:04.764140+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 67, 
-    "labels": {
-        "en": "volc-long-eq"
-    }, 
+    "label": "volc-long-eq", 
     "name": "volc-long-eq", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "cfd23ef7-e6de-4f37-b0f3-8954a1a29e10", 
+    "uid": "c0fcbad2-7a26-4942-a6b8-6789f0113522", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.339523+00:00", 
+    "createDate": "2016-12-12 21:57:04.772050+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -32,13 +32,11 @@
     }, 
     "description": null, 
     "idx": 149, 
-    "labels": {
-        "en": "abrupt-solm4p"
-    }, 
+    "label": "abrupt-solm4p", 
     "name": "abrupt-solm4p", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "43c896fe-2802-4a51-9e34-9316ff901168", 
+    "uid": "5e77fa99-9b6c-4417-a06c-74c1cc971f65", 
     "url": null
 }

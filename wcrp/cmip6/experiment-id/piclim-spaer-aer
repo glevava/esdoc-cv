@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.333663+00:00", 
+    "createDate": "2016-12-12 21:57:04.766078+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 88, 
-    "labels": {
-        "en": "piClim-spAer-aer"
-    }, 
+    "label": "piClim-spAer-aer", 
     "name": "piclim-spaer-aer", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "bf1ef20f-cda2-44a5-9b10-8536d7b00536", 
+    "uid": "445d6cc2-3641-4cbb-83ad-5d20785a7ffa", 
     "url": null
 }

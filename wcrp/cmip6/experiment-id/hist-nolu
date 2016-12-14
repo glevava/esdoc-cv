@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.343051+00:00", 
+    "createDate": "2016-12-12 21:57:04.775517+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 184, 
-    "labels": {
-        "en": "hist-noLu"
-    }, 
+    "label": "hist-noLu", 
     "name": "hist-nolu", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "70ef77ec-6697-42e5-9ef7-f126eff1bf73", 
+    "uid": "d09a90f6-04e8-4e0e-8156-fbe44de13e67", 
     "url": null
 }

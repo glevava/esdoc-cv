@@ -3,19 +3,17 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.320380+00:00", 
+    "createDate": "2016-12-12 21:57:04.782568+00:00", 
     "data": {
         "postalAddress": "Institut Pierre Simon Laplace, Paris 75252, France"
     }, 
     "description": null, 
     "idx": 6, 
-    "labels": {
-        "en": "IPSL"
-    }, 
+    "label": "IPSL", 
     "name": "ipsl", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "24645533-0aa2-471b-abc7-2124cca680d6", 
+    "uid": "db603390-ec8e-483d-8574-7a82de30480f", 
     "url": null
 }

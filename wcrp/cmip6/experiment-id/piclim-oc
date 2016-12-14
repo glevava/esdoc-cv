@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.325967+00:00", 
+    "createDate": "2016-12-12 21:57:04.758499+00:00", 
     "data": {
         "activityID": "AerChemMIP", 
         "additionalAllowedModelComponents": [
@@ -27,13 +27,11 @@
     }, 
     "description": null, 
     "idx": 5, 
-    "labels": {
-        "en": "piClim-OC"
-    }, 
+    "label": "piClim-OC", 
     "name": "piclim-oc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "6d63d14a-db27-434b-93fc-c9c8b29d1a48", 
+    "uid": "f60a99bc-8277-49d8-bdab-5ccd722fedca", 
     "url": null
 }

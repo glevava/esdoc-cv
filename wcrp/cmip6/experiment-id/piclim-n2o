@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.332674+00:00", 
+    "createDate": "2016-12-12 21:57:04.765144+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -27,13 +27,11 @@
     }, 
     "description": null, 
     "idx": 78, 
-    "labels": {
-        "en": "piClim-N2O"
-    }, 
+    "label": "piClim-N2O", 
     "name": "piclim-n2o", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3f8319e7-c615-4480-bf13-d6ffbfbf8feb", 
+    "uid": "e00fec64-d588-41b2-a8a6-b7f6e1f9ddfe", 
     "url": null
 }

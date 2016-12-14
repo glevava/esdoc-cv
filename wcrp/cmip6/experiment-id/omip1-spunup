@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.330782+00:00", 
+    "createDate": "2016-12-12 21:57:04.763317+00:00", 
     "data": {
         "activityID": [
             "OMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 58, 
-    "labels": {
-        "en": "omip1-spunup"
-    }, 
+    "label": "omip1-spunup", 
     "name": "omip1-spunup", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "b35a68e7-745d-4cb6-96ac-98556b04908c", 
+    "uid": "2ce8235b-ae8d-4c29-82a3-b5d5a81f2424", 
     "url": null
 }

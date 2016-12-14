@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.342952+00:00", 
+    "createDate": "2016-12-12 21:57:04.775416+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 183, 
-    "labels": {
-        "en": "hist-all-nat2"
-    }, 
+    "label": "hist-all-nat2", 
     "name": "hist-all-nat2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c11cccb1-1b4b-4642-aa99-d49524746d2c", 
+    "uid": "f7d30396-b914-463e-85e0-56a173845cce", 
     "url": null
 }

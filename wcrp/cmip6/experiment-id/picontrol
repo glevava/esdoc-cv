@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.336796+00:00", 
+    "createDate": "2016-12-12 21:57:04.769266+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 121, 
-    "labels": {
-        "en": "piControl"
-    }, 
+    "label": "piControl", 
     "name": "picontrol", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "b67e534d-f035-472b-85a2-cef5ee8895d3", 
+    "uid": "724a89fb-5776-4a24-8711-d80b39d0ff29", 
     "url": null
 }

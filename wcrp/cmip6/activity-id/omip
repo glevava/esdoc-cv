@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.317791+00:00", 
+    "createDate": "2016-12-12 21:57:04.752841+00:00", 
     "data": null, 
     "description": null, 
     "idx": 14, 
-    "labels": {
-        "en": "OMIP"
-    }, 
+    "label": "OMIP", 
     "name": "omip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "23e54f55-69b5-4889-a205-547307c41795", 
+    "uid": "576ff102-f9d1-4a42-b726-6c9bcfc23915", 
     "url": null
 }

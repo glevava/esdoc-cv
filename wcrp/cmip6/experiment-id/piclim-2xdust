@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.347204+00:00", 
+    "createDate": "2016-12-12 21:57:04.779523+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 223, 
-    "labels": {
-        "en": "piClim-2xdust"
-    }, 
+    "label": "piClim-2xdust", 
     "name": "piclim-2xdust", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "89e6d078-ed38-4eb0-89d6-86cdce65fafc", 
+    "uid": "0c27918a-2cc0-4e31-838e-18c2d3bb960f", 
     "url": null
 }

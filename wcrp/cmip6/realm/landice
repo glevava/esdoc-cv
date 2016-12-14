@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.315017+00:00", 
+    "createDate": "2016-12-12 21:57:04.750122+00:00", 
     "data": null, 
     "description": null, 
     "idx": 5, 
-    "labels": {
-        "en": "landIce"
-    }, 
+    "label": "landIce", 
     "name": "landice", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "327c4cca-8467-4a6c-83a8-baa464b118b7", 
+    "uid": "e6df20ac-b0f1-47a0-8280-7d93f1221d97", 
     "url": null
 }

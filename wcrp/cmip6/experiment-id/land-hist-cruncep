@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.346896+00:00", 
+    "createDate": "2016-12-12 21:57:04.779216+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 220, 
-    "labels": {
-        "en": "land-hist-cruNcep"
-    }, 
+    "label": "land-hist-cruNcep", 
     "name": "land-hist-cruncep", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "cae83058-50e3-4829-9461-92bdd082dcfd", 
+    "uid": "21fcc1e8-8e13-4b5f-bdc2-08224dbc4782", 
     "url": null
 }

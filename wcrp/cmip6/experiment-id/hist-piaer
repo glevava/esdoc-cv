@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.332493+00:00", 
+    "createDate": "2016-12-12 21:57:04.764957+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 76, 
-    "labels": {
-        "en": "hist-piAer"
-    }, 
+    "label": "hist-piAer", 
     "name": "hist-piaer", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "9d4be774-fedd-4642-aebf-dc4ce66cf263", 
+    "uid": "993a9118-908f-4103-a41e-b9a3a9d99827", 
     "url": null
 }

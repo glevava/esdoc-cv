@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.315107+00:00", 
+    "createDate": "2016-12-12 21:57:04.750208+00:00", 
     "data": null, 
     "description": null, 
     "idx": 6, 
-    "labels": {
-        "en": "ocean"
-    }, 
+    "label": "ocean", 
     "name": "ocean", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "6dcd48d4-b694-4935-af7c-01c58817fbdb", 
+    "uid": "3956bb60-026c-4061-8f92-043679b26598", 
     "url": null
 }

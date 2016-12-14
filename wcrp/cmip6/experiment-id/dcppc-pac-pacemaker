@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.344569+00:00", 
+    "createDate": "2016-12-12 21:57:04.777050+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 199, 
-    "labels": {
-        "en": "dcppC-pac-pacemaker"
-    }, 
+    "label": "dcppC-pac-pacemaker", 
     "name": "dcppc-pac-pacemaker", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "37306ef6-ec0e-4cc4-90f7-0ed201732e1c", 
+    "uid": "4dce664f-ea6a-4c47-9381-4bf4ae97aa05", 
     "url": null
 }

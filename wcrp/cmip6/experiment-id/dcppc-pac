@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.335648+00:00", 
+    "createDate": "2016-12-12 21:57:04.768100+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 109, 
-    "labels": {
-        "en": "dcppC-pac"
-    }, 
+    "label": "dcppC-pac", 
     "name": "dcppc-pac", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "2509ac10-962c-4335-835b-67e011189b83", 
+    "uid": "bc2ae8d6-cfd4-4862-aa32-0c2aa2ddb971", 
     "url": null
 }

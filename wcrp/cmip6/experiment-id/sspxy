@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.335836+00:00", 
+    "createDate": "2016-12-12 21:57:04.768289+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 111, 
-    "labels": {
-        "en": "sspxy"
-    }, 
+    "label": "sspxy", 
     "name": "sspxy", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d63170be-6a9a-4679-89ce-1f1d2feea017", 
+    "uid": "e8a9da51-ec84-4c0a-a8de-3ce2debb0a77", 
     "url": null
 }

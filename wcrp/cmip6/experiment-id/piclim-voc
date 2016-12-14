@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.327554+00:00", 
+    "createDate": "2016-12-12 21:57:04.760086+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -27,13 +27,11 @@
     }, 
     "description": null, 
     "idx": 23, 
-    "labels": {
-        "en": "piClim-VOC"
-    }, 
+    "label": "piClim-VOC", 
     "name": "piclim-voc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7944b837-7fab-4815-b27c-a03df4f21123", 
+    "uid": "dc4e9646-7ee1-48ba-a279-b3ac007b38c1", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.327732+00:00", 
+    "createDate": "2016-12-12 21:57:04.760262+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 25, 
-    "labels": {
-        "en": "dcppC-amv-plus"
-    }, 
+    "label": "dcppC-amv-plus", 
     "name": "dcppc-amv-plus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8705c706-5f62-416a-817c-0db799008194", 
+    "uid": "50a40079-61ef-4e98-9afb-a7691fa08eaf", 
     "url": null
 }

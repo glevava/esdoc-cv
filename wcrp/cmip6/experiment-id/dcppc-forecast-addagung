@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.347312+00:00", 
+    "createDate": "2016-12-12 21:57:04.779624+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 224, 
-    "labels": {
-        "en": "dcppC-forecast-addAgung"
-    }, 
+    "label": "dcppC-forecast-addAgung", 
     "name": "dcppc-forecast-addagung", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "41fc9ee2-2b6c-404d-a0e1-d5803dc0ac2e", 
+    "uid": "f04542f7-83fb-4045-a726-68e77a115961", 
     "url": null
 }

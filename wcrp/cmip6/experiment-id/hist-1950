@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.328347+00:00", 
+    "createDate": "2016-12-12 21:57:04.760962+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 32, 
-    "labels": {
-        "en": "hist-1950"
-    }, 
+    "label": "hist-1950", 
     "name": "hist-1950", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "621a9fae-4fdc-416f-9cdf-56a4040c0677", 
+    "uid": "13b31ae1-13c2-40e9-84ab-242fa9fd26a8", 
     "url": null
 }

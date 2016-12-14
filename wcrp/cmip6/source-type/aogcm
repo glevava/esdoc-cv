@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.315740+00:00", 
+    "createDate": "2016-12-12 21:57:04.750784+00:00", 
     "data": null, 
     "description": null, 
     "idx": 3, 
-    "labels": {
-        "en": "AOGCM"
-    }, 
+    "label": "AOGCM", 
     "name": "aogcm", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "67db6f09-504c-4f1b-8c6c-e08be09c9159", 
+    "uid": "30a57d2a-a8c2-4a9a-b07d-3c587f834d27", 
     "url": null
 }

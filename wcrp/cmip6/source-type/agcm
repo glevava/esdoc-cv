@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.315651+00:00", 
+    "createDate": "2016-12-12 21:57:04.750697+00:00", 
     "data": null, 
     "description": null, 
     "idx": 2, 
-    "labels": {
-        "en": "AGCM"
-    }, 
+    "label": "AGCM", 
     "name": "agcm", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "58b8b70e-2364-4ba5-bf0f-232ecad56445", 
+    "uid": "7a110271-8a4a-49ea-a55c-a7ea5e2eb4ce", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.345661+00:00", 
+    "createDate": "2016-12-12 21:57:04.778066+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 209, 
-    "labels": {
-        "en": "historical-ext"
-    }, 
+    "label": "historical-ext", 
     "name": "historical-ext", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "ec2b135c-2cf7-42e5-b94e-b50e58306da0", 
+    "uid": "2033a567-b411-495e-8716-3c7cf8ef1479", 
     "url": null
 }

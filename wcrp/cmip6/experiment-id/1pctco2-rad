@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.346390+00:00", 
+    "createDate": "2016-12-12 21:57:04.778802+00:00", 
     "data": {
         "activityID": [
             "C4MIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 216, 
-    "labels": {
-        "en": "1pctCO2-rad"
-    }, 
+    "label": "1pctCO2-rad", 
     "name": "1pctco2-rad", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "6e9c0eda-a1f5-450c-96cc-4ec487e79b50", 
+    "uid": "afd4913c-4f81-496d-810d-9c472249078b", 
     "url": null
 }

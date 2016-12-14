@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.342451+00:00", 
+    "createDate": "2016-12-12 21:57:04.774916+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 178, 
-    "labels": {
-        "en": "histSST-piN2O"
-    }, 
+    "label": "histSST-piN2O", 
     "name": "histsst-pin2o", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "58fc9661-1cd4-46bd-add3-45410016e96e", 
+    "uid": "88706ed9-6c28-4f17-bf0f-13afbd088d4e", 
     "url": null
 }

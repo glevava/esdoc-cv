@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.327292+00:00", 
+    "createDate": "2016-12-12 21:57:04.759819+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 20, 
-    "labels": {
-        "en": "G1"
-    }, 
+    "label": "G1", 
     "name": "g1", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "cef9fc56-b260-4512-97fd-b07d63346e33", 
+    "uid": "45fc2a6c-9509-4019-8068-133f4351cad4", 
     "url": null
 }

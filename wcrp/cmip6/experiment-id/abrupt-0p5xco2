@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.331987+00:00", 
+    "createDate": "2016-12-12 21:57:04.764502+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 71, 
-    "labels": {
-        "en": "abrupt-0p5xCO2"
-    }, 
+    "label": "abrupt-0p5xCO2", 
     "name": "abrupt-0p5xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "13119ccd-61b8-4510-8be1-cb0643cc5900", 
+    "uid": "c43ff920-ec88-406d-a322-9a53afcc0c27", 
     "url": null
 }

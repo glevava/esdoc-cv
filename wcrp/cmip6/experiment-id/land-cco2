@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.326229+00:00", 
+    "createDate": "2016-12-12 21:57:04.758765+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 8, 
-    "labels": {
-        "en": "land-cCO2"
-    }, 
+    "label": "land-cCO2", 
     "name": "land-cco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "1a9e097a-d2ff-40bf-8073-b7de034cae6a", 
+    "uid": "d4cc641c-ae12-411a-8063-caff8e0300f5", 
     "url": null
 }

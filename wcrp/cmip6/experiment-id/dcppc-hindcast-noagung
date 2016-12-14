@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.337378+00:00", 
+    "createDate": "2016-12-12 21:57:04.769862+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 127, 
-    "labels": {
-        "en": "dcppC-hindcast-noAgung"
-    }, 
+    "label": "dcppC-hindcast-noAgung", 
     "name": "dcppc-hindcast-noagung", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c27eff35-9a47-4b6e-907b-c460158f90b4", 
+    "uid": "6fa45fe2-934d-4f69-8bf9-84667385a413", 
     "url": null
 }

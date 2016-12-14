@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.348247+00:00", 
+    "createDate": "2016-12-12 21:57:04.780616+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 233, 
-    "labels": {
-        "en": "land-crop-noFert"
-    }, 
+    "label": "land-crop-noFert", 
     "name": "land-crop-nofert", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "99969b3c-9c7a-47f4-8c9b-b340b5f7ecb0", 
+    "uid": "4bfd97a4-ae8c-43b5-81d3-a54eba25a0fd", 
     "url": null
 }

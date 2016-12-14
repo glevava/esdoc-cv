@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.327644+00:00", 
+    "createDate": "2016-12-12 21:57:04.760175+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 24, 
-    "labels": {
-        "en": "faf-heat"
-    }, 
+    "label": "faf-heat", 
     "name": "faf-heat", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d9e046b4-0556-489d-a39d-b52a14f8bd82", 
+    "uid": "717cbe68-37aa-47cc-8eff-6e8ca3ce1da7", 
     "url": null
 }

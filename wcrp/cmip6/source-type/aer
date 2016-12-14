@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.315551+00:00", 
+    "createDate": "2016-12-12 21:57:04.750603+00:00", 
     "data": null, 
     "description": null, 
     "idx": 1, 
-    "labels": {
-        "en": "AER"
-    }, 
+    "label": "AER", 
     "name": "aer", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "bafe986e-31a0-4d84-8187-52aad0fc7c2e", 
+    "uid": "465cdae9-c897-49bb-abe6-cabf84c4c0b5", 
     "url": null
 }

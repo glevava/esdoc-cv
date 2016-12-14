@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.333479+00:00", 
+    "createDate": "2016-12-12 21:57:04.765891+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 86, 
-    "labels": {
-        "en": "amip-m4K"
-    }, 
+    "label": "amip-m4K", 
     "name": "amip-m4k", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "f7dd3eb8-eb04-4207-8d25-c8ba97baf152", 
+    "uid": "f37ba39e-27e3-41c8-8f11-06dd938e269b", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.330692+00:00", 
+    "createDate": "2016-12-12 21:57:04.763225+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 57, 
-    "labels": {
-        "en": "piClim-ghg"
-    }, 
+    "label": "piClim-ghg", 
     "name": "piclim-ghg", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3dd2a9a6-259d-4285-a83a-1612b5ccb05d", 
+    "uid": "a2778f12-0415-419f-9144-dba642c9de69", 
     "url": null
 }

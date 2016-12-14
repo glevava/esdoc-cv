@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.342550+00:00", 
+    "createDate": "2016-12-12 21:57:04.775017+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -30,13 +30,11 @@
     }, 
     "description": null, 
     "idx": 179, 
-    "labels": {
-        "en": "piControl-withism"
-    }, 
+    "label": "piControl-withism", 
     "name": "picontrol-withism", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "5bebc791-d314-42a3-ba8f-f749cf41f6ba", 
+    "uid": "ab769974-43f9-4456-8cfd-86b873879cbd", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.325877+00:00", 
+    "createDate": "2016-12-12 21:57:04.758412+00:00", 
     "data": {
         "activityID": "AerChemMIP", 
         "additionalAllowedModelComponents": [
@@ -27,13 +27,11 @@
     }, 
     "description": null, 
     "idx": 4, 
-    "labels": {
-        "en": "piClim-NH3"
-    }, 
+    "label": "piClim-NH3", 
     "name": "piclim-nh3", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "fa264e50-024b-4b51-894c-941bb8888d74", 
+    "uid": "b4cf55de-b4c7-4612-a044-946bda6241b0", 
     "url": null
 }

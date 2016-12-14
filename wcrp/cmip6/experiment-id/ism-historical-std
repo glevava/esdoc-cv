@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.345350+00:00", 
+    "createDate": "2016-12-12 21:57:04.777761+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 206, 
-    "labels": {
-        "en": "ism-historical-std"
-    }, 
+    "label": "ism-historical-std", 
     "name": "ism-historical-std", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "93c1e761-8557-4978-8f49-da9ac3fcc7d9", 
+    "uid": "ac1d5238-a490-44ba-9f15-095fe1e7d97a", 
     "url": null
 }

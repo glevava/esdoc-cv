@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.316430+00:00", 
+    "createDate": "2016-12-12 21:57:04.751480+00:00", 
     "data": null, 
     "description": null, 
     "idx": 11, 
-    "labels": {
-        "en": "SLAB"
-    }, 
+    "label": "SLAB", 
     "name": "slab", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "763e09e5-42e4-41b5-84c1-39186fc4c041", 
+    "uid": "6812e92b-7923-43e4-ab40-8368c5ed6e6e", 
     "url": null
 }

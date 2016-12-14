@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.317534+00:00", 
+    "createDate": "2016-12-12 21:57:04.752583+00:00", 
     "data": null, 
     "description": null, 
     "idx": 11, 
-    "labels": {
-        "en": "ISMIP6"
-    }, 
+    "label": "ISMIP6", 
     "name": "ismip6", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "026202b3-54ab-4deb-b8f4-534a44347747", 
+    "uid": "af278cd0-4134-4ca9-928c-63e62da808c6", 
     "url": null
 }

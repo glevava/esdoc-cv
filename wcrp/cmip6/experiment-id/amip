@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.349399+00:00", 
+    "createDate": "2016-12-12 21:57:04.781815+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 244, 
-    "labels": {
-        "en": "amip"
-    }, 
+    "label": "amip", 
     "name": "amip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "4aeb513d-5470-4bb3-b3f9-1b58afdfa444", 
+    "uid": "48d72232-d8c8-400e-99d7-67f42f7cf887", 
     "url": null
 }

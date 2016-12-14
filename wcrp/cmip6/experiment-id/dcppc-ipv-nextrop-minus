@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.344978+00:00", 
+    "createDate": "2016-12-12 21:57:04.777454+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 203, 
-    "labels": {
-        "en": "dcppC-ipv-nextrop-minus"
-    }, 
+    "label": "dcppC-ipv-nextrop-minus", 
     "name": "dcppc-ipv-nextrop-minus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "275a96e8-c02a-42e5-904b-a842d60787e7", 
+    "uid": "dc0197c9-5520-4a9a-a50d-cba1d275d061", 
     "url": null
 }

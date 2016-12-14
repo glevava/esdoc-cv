@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.341002+00:00", 
+    "createDate": "2016-12-12 21:57:04.773522+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP", 
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 164, 
-    "labels": {
-        "en": "ssp370"
-    }, 
+    "label": "ssp370", 
     "name": "ssp370", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d80eb4f3-0819-4424-912f-51f0fd1b4cf6", 
+    "uid": "2c85fffa-1da9-46c8-baf5-fe1f35864c78", 
     "url": null
 }

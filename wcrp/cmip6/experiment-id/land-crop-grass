@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.327998+00:00", 
+    "createDate": "2016-12-12 21:57:04.760534+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 28, 
-    "labels": {
-        "en": "land-crop-grass"
-    }, 
+    "label": "land-crop-grass", 
     "name": "land-crop-grass", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "932c8e78-1925-4825-9439-4a84c401edaf", 
+    "uid": "c0ecb860-fab7-42da-871a-2f48847b298f", 
     "url": null
 }

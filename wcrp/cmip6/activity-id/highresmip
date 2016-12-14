@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.317447+00:00", 
+    "createDate": "2016-12-12 21:57:04.752496+00:00", 
     "data": null, 
     "description": null, 
     "idx": 10, 
-    "labels": {
-        "en": "HighResMIP"
-    }, 
+    "label": "HighResMIP", 
     "name": "highresmip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d150e276-a1e6-4c12-9bb5-927e8e9c0348", 
+    "uid": "26025609-72f4-4ec0-a806-3147ff2818b0", 
     "url": null
 }

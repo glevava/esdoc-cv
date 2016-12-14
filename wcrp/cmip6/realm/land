@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.314929+00:00", 
+    "createDate": "2016-12-12 21:57:04.750035+00:00", 
     "data": null, 
     "description": null, 
     "idx": 4, 
-    "labels": {
-        "en": "land"
-    }, 
+    "label": "land", 
     "name": "land", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "68ffbaf2-d6ca-44a5-9e1d-34d7611ec3b5", 
+    "uid": "5af12907-afbe-44eb-aa77-2ee84c036e71", 
     "url": null
 }

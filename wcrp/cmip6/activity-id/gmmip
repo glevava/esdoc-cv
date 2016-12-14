@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.317266+00:00", 
+    "createDate": "2016-12-12 21:57:04.752313+00:00", 
     "data": null, 
     "description": null, 
     "idx": 8, 
-    "labels": {
-        "en": "GMMIP"
-    }, 
+    "label": "GMMIP", 
     "name": "gmmip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "ba169788-af71-4bd4-9eee-250d9821508f", 
+    "uid": "ba1ba930-9286-4733-8fb0-357e0124071f", 
     "url": null
 }

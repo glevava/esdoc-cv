@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.345971+00:00", 
+    "createDate": "2016-12-12 21:57:04.778391+00:00", 
     "data": {
         "activityID": [
             "OMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 212, 
-    "labels": {
-        "en": "omip2"
-    }, 
+    "label": "omip2", 
     "name": "omip2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "83005565-d27c-4c51-a5c3-a60bf7c50f7e", 
+    "uid": "25b4d6d7-8960-46c6-a25d-204c35cf94da", 
     "url": null
 }

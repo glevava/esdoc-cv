@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.346998+00:00", 
+    "createDate": "2016-12-12 21:57:04.779319+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 221, 
-    "labels": {
-        "en": "amip-piForcing"
-    }, 
+    "label": "amip-piForcing", 
     "name": "amip-piforcing", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "4e1d5c8d-7eec-41da-b0c4-04fcab9ec36d", 
+    "uid": "dfc6d142-0c63-4f8e-adef-f41ddcab890b", 
     "url": null
 }

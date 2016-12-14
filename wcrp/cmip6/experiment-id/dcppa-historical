@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.348559+00:00", 
+    "createDate": "2016-12-12 21:57:04.780928+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 236, 
-    "labels": {
-        "en": "dcppA-historical"
-    }, 
+    "label": "dcppA-historical", 
     "name": "dcppa-historical", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "df2b2090-fe41-4572-9f1a-f4b1069510a1", 
+    "uid": "03a0b467-8c12-4609-b72c-d7c432e580bf", 
     "url": null
 }

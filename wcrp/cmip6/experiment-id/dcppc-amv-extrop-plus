@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.327906+00:00", 
+    "createDate": "2016-12-12 21:57:04.760447+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 27, 
-    "labels": {
-        "en": "dcppC-amv-extrop-plus"
-    }, 
+    "label": "dcppC-amv-extrop-plus", 
     "name": "dcppc-amv-extrop-plus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "dd0cf6ce-90f0-4cc3-ab99-3954a3eb31c1", 
+    "uid": "9e083a60-e315-4844-a35b-43ef970c6872", 
     "url": null
 }

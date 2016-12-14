@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.327111+00:00", 
+    "createDate": "2016-12-12 21:57:04.759644+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 18, 
-    "labels": {
-        "en": "volc-pinatubo-surf"
-    }, 
+    "label": "volc-pinatubo-surf", 
     "name": "volc-pinatubo-surf", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "23624363-2c68-4207-994e-bb6dfbdb31e3", 
+    "uid": "ef5b9f21-0fe2-4b99-8674-e2809f5f0a11", 
     "url": null
 }

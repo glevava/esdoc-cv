@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.342651+00:00", 
+    "createDate": "2016-12-12 21:57:04.775117+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 180, 
-    "labels": {
-        "en": "aqua-control-lwoff"
-    }, 
+    "label": "aqua-control-lwoff", 
     "name": "aqua-control-lwoff", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "5e11edb2-178d-4d1c-a3cc-f0443d2faad3", 
+    "uid": "088ed925-ee8b-4460-a476-6c7510ad2796", 
     "url": null
 }

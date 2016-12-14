@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.348771+00:00", 
+    "createDate": "2016-12-12 21:57:04.781136+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 238, 
-    "labels": {
-        "en": "G7SST1-cirrus"
-    }, 
+    "label": "G7SST1-cirrus", 
     "name": "g7sst1-cirrus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "5b335911-8d58-4a0f-83bb-41e3eb14c0f2", 
+    "uid": "e97f76ef-3423-41ad-83dc-cb14ec316c7a", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.333295+00:00", 
+    "createDate": "2016-12-12 21:57:04.765702+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 84, 
-    "labels": {
-        "en": "dcppC-ipv-minus"
-    }, 
+    "label": "dcppC-ipv-minus", 
     "name": "dcppc-ipv-minus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c13a9d28-db2c-4d77-8160-392d6a765414", 
+    "uid": "e3d094d5-4adf-499d-903d-d663266d0e74", 
     "url": null
 }

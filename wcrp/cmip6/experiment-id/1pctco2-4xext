@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.349186+00:00", 
+    "createDate": "2016-12-12 21:57:04.781607+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 242, 
-    "labels": {
-        "en": "1pctCO2-4xext"
-    }, 
+    "label": "1pctCO2-4xext", 
     "name": "1pctco2-4xext", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d1054583-60f0-447f-bede-95e39edce5c6", 
+    "uid": "b6451663-bbca-45b3-8d82-f3e20e7c437f", 
     "url": null
 }

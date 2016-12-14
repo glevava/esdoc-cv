@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.343963+00:00", 
+    "createDate": "2016-12-12 21:57:04.776431+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 193, 
-    "labels": {
-        "en": "volc-pinatubo-strat"
-    }, 
+    "label": "volc-pinatubo-strat", 
     "name": "volc-pinatubo-strat", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "63d19804-9906-47df-8d99-c94253adf754", 
+    "uid": "45eb9cbf-54bc-499f-821e-bf70f538bc9a", 
     "url": null
 }

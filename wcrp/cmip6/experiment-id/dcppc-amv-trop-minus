@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.328710+00:00", 
+    "createDate": "2016-12-12 21:57:04.761311+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 36, 
-    "labels": {
-        "en": "dcppC-amv-trop-minus"
-    }, 
+    "label": "dcppC-amv-trop-minus", 
     "name": "dcppc-amv-trop-minus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "801be0c0-8913-4cfe-bb2c-1510fde85bc7", 
+    "uid": "87d6fc3b-7b2c-47cc-801e-0afbd9ae4a98", 
     "url": null
 }

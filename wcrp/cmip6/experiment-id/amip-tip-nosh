@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.332583+00:00", 
+    "createDate": "2016-12-12 21:57:04.765052+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 77, 
-    "labels": {
-        "en": "amip-TIP-nosh"
-    }, 
+    "label": "amip-TIP-nosh", 
     "name": "amip-tip-nosh", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "f8376c71-0d19-4d5e-b01c-fe83042c56da", 
+    "uid": "a2c31b46-173f-47c4-8a1b-7aea9dc44a23", 
     "url": null
 }

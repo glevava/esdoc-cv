@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.347517+00:00", 
+    "createDate": "2016-12-12 21:57:04.779838+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 226, 
-    "labels": {
-        "en": "land-noFire"
-    }, 
+    "label": "land-noFire", 
     "name": "land-nofire", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "0293b667-4160-43b4-bcb1-7f42b30f5976", 
+    "uid": "b06b089c-510d-4296-afd1-5bf5623228c3", 
     "url": null
 }

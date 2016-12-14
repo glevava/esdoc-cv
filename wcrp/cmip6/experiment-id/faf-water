@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.336029+00:00", 
+    "createDate": "2016-12-12 21:57:04.768480+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 113, 
-    "labels": {
-        "en": "faf-water"
-    }, 
+    "label": "faf-water", 
     "name": "faf-water", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "a6f85b85-2cb0-458a-93ce-b1f940ce7314", 
+    "uid": "54342468-a1c8-440c-882d-da0fbb4a6118", 
     "url": null
 }

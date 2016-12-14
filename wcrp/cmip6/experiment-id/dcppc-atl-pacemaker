@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.340117+00:00", 
+    "createDate": "2016-12-12 21:57:04.772635+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 155, 
-    "labels": {
-        "en": "dcppC-atl-pacemaker"
-    }, 
+    "label": "dcppC-atl-pacemaker", 
     "name": "dcppc-atl-pacemaker", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "ed97da96-f2dd-4a75-9936-1258f7b1240e", 
+    "uid": "7a6a1e17-1320-4dcc-a369-39a24d30c7d9", 
     "url": null
 }

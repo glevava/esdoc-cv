@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.326847+00:00", 
+    "createDate": "2016-12-12 21:57:04.759374+00:00", 
     "data": {
         "activityID": [
             "GeoMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 15, 
-    "labels": {
-        "en": "G6SST1"
-    }, 
+    "label": "G6SST1", 
     "name": "g6sst1", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "22391e92-cf4a-4307-a37d-66a86d3f0f2e", 
+    "uid": "d3a30d43-ceef-41e4-bfde-74448db94086", 
     "url": null
 }

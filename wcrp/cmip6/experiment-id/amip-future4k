@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.338056+00:00", 
+    "createDate": "2016-12-12 21:57:04.770581+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 134, 
-    "labels": {
-        "en": "amip-future4K"
-    }, 
+    "label": "amip-future4K", 
     "name": "amip-future4k", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "1bfb3af0-9e03-41e5-b5eb-82e447e850b6", 
+    "uid": "81eda132-f595-4a4b-8c86-0e0990b3a4bc", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.333854+00:00", 
+    "createDate": "2016-12-12 21:57:04.766259+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 90, 
-    "labels": {
-        "en": "ssp370SST-lowBC"
-    }, 
+    "label": "ssp370SST-lowBC", 
     "name": "ssp370sst-lowbc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c9cdf10e-2733-4939-9b81-dbf7cd1a644d", 
+    "uid": "94158715-542d-43ec-9028-ecf7a9e3b8e2", 
     "url": null
 }

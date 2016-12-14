@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.330235+00:00", 
+    "createDate": "2016-12-12 21:57:04.762764+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 52, 
-    "labels": {
-        "en": "esm-ssp585-ssp126Lu"
-    }, 
+    "label": "esm-ssp585-ssp126Lu", 
     "name": "esm-ssp585-ssp126lu", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7b2bfd52-094d-45fe-bec2-63997ff323fe", 
+    "uid": "548c5526-f399-43bb-a3e9-fd09d98e687e", 
     "url": null
 }

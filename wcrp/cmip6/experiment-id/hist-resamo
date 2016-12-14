@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.328624+00:00", 
+    "createDate": "2016-12-12 21:57:04.761223+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 35, 
-    "labels": {
-        "en": "hist-resAMO"
-    }, 
+    "label": "hist-resAMO", 
     "name": "hist-resamo", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "30ff3ed1-3c27-49c2-99a8-cb10e418bd74", 
+    "uid": "7e06b5cd-fe74-4dc3-baf8-0761804a5aa7", 
     "url": null
 }

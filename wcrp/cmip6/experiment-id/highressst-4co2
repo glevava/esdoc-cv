@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.329252+00:00", 
+    "createDate": "2016-12-12 21:57:04.761846+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -32,13 +32,11 @@
     }, 
     "description": null, 
     "idx": 42, 
-    "labels": {
-        "en": "highresSST-4co2"
-    }, 
+    "label": "highresSST-4co2", 
     "name": "highressst-4co2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "14981cfd-a448-4ec0-ac32-0b8eb9b565cc", 
+    "uid": "e1f36a84-233f-48e8-b909-8c008cf9f357", 
     "url": null
 }

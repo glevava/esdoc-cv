@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.346175+00:00", 
+    "createDate": "2016-12-12 21:57:04.778596+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 214, 
-    "labels": {
-        "en": "amip-a4SST-4xCO2"
-    }, 
+    "label": "amip-a4SST-4xCO2", 
     "name": "amip-a4sst-4xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "b2cd7d66-1b2d-4400-8775-00a2a7f40827", 
+    "uid": "250621a8-d6bd-4b71-9d62-eb8aae6edb37", 
     "url": null
 }

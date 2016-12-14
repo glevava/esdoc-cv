@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.331150+00:00", 
+    "createDate": "2016-12-12 21:57:04.763686+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 62, 
-    "labels": {
-        "en": "ism-ssp585-std"
-    }, 
+    "label": "ism-ssp585-std", 
     "name": "ism-ssp585-std", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "140e63c1-7d47-4328-a8df-6b57c372bbca", 
+    "uid": "2e8311b8-71aa-41dc-baf9-840a8430ab42", 
     "url": null
 }

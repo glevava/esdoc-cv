@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.330601+00:00", 
+    "createDate": "2016-12-12 21:57:04.763134+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 56, 
-    "labels": {
-        "en": "volc-pinatubo-ini"
-    }, 
+    "label": "volc-pinatubo-ini", 
     "name": "volc-pinatubo-ini", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "702023f0-1eee-4386-b2d8-86fbff0aed9c", 
+    "uid": "159df84d-cf34-4608-9b8f-d1af2ae08f1d", 
     "url": null
 }

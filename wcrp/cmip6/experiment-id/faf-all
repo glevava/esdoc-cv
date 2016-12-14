@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.326670+00:00", 
+    "createDate": "2016-12-12 21:57:04.759203+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 13, 
-    "labels": {
-        "en": "faf-all"
-    }, 
+    "label": "faf-all", 
     "name": "faf-all", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "478f5d93-d6f8-4400-a352-844859795a81", 
+    "uid": "0c8ee3c0-cd1f-48f5-b482-520c0a21a2e7", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.326760+00:00", 
+    "createDate": "2016-12-12 21:57:04.759287+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 14, 
-    "labels": {
-        "en": "ism-1pctCO2to4x-self"
-    }, 
+    "label": "ism-1pctCO2to4x-self", 
     "name": "ism-1pctco2to4x-self", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "2d3a0fbc-2a35-45bf-aede-2dfe34515efe", 
+    "uid": "5b61a663-573b-462a-aa8f-bcfc3c70f56e", 
     "url": null
 }

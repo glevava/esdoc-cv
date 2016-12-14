@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.332089+00:00", 
+    "createDate": "2016-12-12 21:57:04.764597+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 72, 
-    "labels": {
-        "en": "abrupt-2xCO2"
-    }, 
+    "label": "abrupt-2xCO2", 
     "name": "abrupt-2xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3a8d3e86-324a-4bcb-b13c-0c1285adb773", 
+    "uid": "459b9310-01da-49ac-b6be-11307737938d", 
     "url": null
 }

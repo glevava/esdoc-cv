@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.329818+00:00", 
+    "createDate": "2016-12-12 21:57:04.762385+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 48, 
-    "labels": {
-        "en": "ssp126"
-    }, 
+    "label": "ssp126", 
     "name": "ssp126", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e3e11445-95ff-42d4-9381-b2ae73629783", 
+    "uid": "529cde6a-0373-46d8-916a-f5a7eaf71fb3", 
     "url": null
 }

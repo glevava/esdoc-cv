@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.341849+00:00", 
+    "createDate": "2016-12-12 21:57:04.774314+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 172, 
-    "labels": {
-        "en": "ism-1pctCO2to4x-std"
-    }, 
+    "label": "ism-1pctCO2to4x-std", 
     "name": "ism-1pctco2to4x-std", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "caf136a6-886a-46c4-83fd-61561d85cd1a", 
+    "uid": "d69d2143-4119-47b4-a8a9-f076aef07010", 
     "url": null
 }

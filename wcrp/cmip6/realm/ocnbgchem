@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.315194+00:00", 
+    "createDate": "2016-12-12 21:57:04.750294+00:00", 
     "data": null, 
     "description": null, 
     "idx": 7, 
-    "labels": {
-        "en": "ocnBgchem"
-    }, 
+    "label": "ocnBgchem", 
     "name": "ocnbgchem", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c474eab8-31a9-4dce-806e-c08ab8c721be", 
+    "uid": "2ed9a616-34ab-44e0-8aac-bd3279ef9ccc", 
     "url": null
 }

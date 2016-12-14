@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.329610+00:00", 
+    "createDate": "2016-12-12 21:57:04.762204+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 46, 
-    "labels": {
-        "en": "piSST-4xCO2-rad"
-    }, 
+    "label": "piSST-4xCO2-rad", 
     "name": "pisst-4xco2-rad", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "f8f29e23-2128-46a3-b61b-f59369867551", 
+    "uid": "266c3f86-18e2-4ab7-a1b4-bd830231b681", 
     "url": null
 }

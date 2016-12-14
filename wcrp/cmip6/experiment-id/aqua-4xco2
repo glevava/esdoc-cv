@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.338352+00:00", 
+    "createDate": "2016-12-12 21:57:04.770879+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 137, 
-    "labels": {
-        "en": "aqua-4xCO2"
-    }, 
+    "label": "aqua-4xCO2", 
     "name": "aqua-4xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "4d40aaff-2171-4930-9cbd-1e0564f9816c", 
+    "uid": "7795f41a-c9f0-492b-945b-edba93a230d7", 
     "url": null
 }

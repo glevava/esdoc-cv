@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.344669+00:00", 
+    "createDate": "2016-12-12 21:57:04.777152+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 200, 
-    "labels": {
-        "en": "ssp585-withism"
-    }, 
+    "label": "ssp585-withism", 
     "name": "ssp585-withism", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "9c5992da-3d33-4908-9038-dc85522eb988", 
+    "uid": "a7783368-686c-48a7-ab7d-706e30ffb171", 
     "url": null
 }

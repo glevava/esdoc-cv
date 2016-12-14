@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.338544+00:00", 
+    "createDate": "2016-12-12 21:57:04.771070+00:00", 
     "data": {
         "activityID": [
             "VolMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 139, 
-    "labels": {
-        "en": "volc-cluster-mill"
-    }, 
+    "label": "volc-cluster-mill", 
     "name": "volc-cluster-mill", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "070fb52e-97b0-4564-b3e1-6fa72ac3d679", 
+    "uid": "5a67898f-cad0-415e-a9e1-0b4f634f2268", 
     "url": null
 }

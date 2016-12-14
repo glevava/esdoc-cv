@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.346791+00:00", 
+    "createDate": "2016-12-12 21:57:04.779112+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 219, 
-    "labels": {
-        "en": "a4SSTice"
-    }, 
+    "label": "a4SSTice", 
     "name": "a4sstice", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "f7a019b0-5d35-4a93-883d-f341c31dc7e3", 
+    "uid": "f4848c2c-dc40-4000-b480-fdc5219bed98", 
     "url": null
 }

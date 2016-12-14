@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.328173+00:00", 
+    "createDate": "2016-12-12 21:57:04.760782+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 30, 
-    "labels": {
-        "en": "faf-passiveheat"
-    }, 
+    "label": "faf-passiveheat", 
     "name": "faf-passiveheat", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "9f6aa00f-407d-4b7e-b79c-15096045ecd6", 
+    "uid": "0576a8db-f49e-4b4d-8c85-72c63c87f405", 
     "url": null
 }

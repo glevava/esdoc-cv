@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.334325+00:00", 
+    "createDate": "2016-12-12 21:57:04.766729+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 95, 
-    "labels": {
-        "en": "hist-stratO3"
-    }, 
+    "label": "hist-stratO3", 
     "name": "hist-strato3", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "ed0f8ead-dd4c-42c0-98ff-5044d61ef27b", 
+    "uid": "690a588a-ffe9-476f-a1c9-de023a6e4b2b", 
     "url": null
 }

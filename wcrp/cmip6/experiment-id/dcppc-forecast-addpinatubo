@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.342250+00:00", 
+    "createDate": "2016-12-12 21:57:04.774709+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 176, 
-    "labels": {
-        "en": "dcppC-forecast-addPinatubo"
-    }, 
+    "label": "dcppC-forecast-addPinatubo", 
     "name": "dcppc-forecast-addpinatubo", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "b4593024-e3ea-4d67-b223-1610a86bab92", 
+    "uid": "55c03dab-3c27-43a1-a646-4ba549786f70", 
     "url": null
 }

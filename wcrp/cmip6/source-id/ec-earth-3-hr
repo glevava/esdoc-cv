@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.319070+00:00", 
+    "createDate": "2016-12-12 21:57:04.754122+00:00", 
     "data": {
         "aerosol": "None", 
         "atmosphere": "IFS cy36r4 (TL511, linearly reduced Gaussian grid equivalent to 1024 x 512; 91 levels; top level 1 Pa)", 
@@ -26,13 +26,11 @@
     }, 
     "description": null, 
     "idx": 7, 
-    "labels": {
-        "en": "EC-Earth-3-HR"
-    }, 
+    "label": "EC-Earth-3-HR", 
     "name": "ec-earth-3-hr", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c6cc232a-242c-46ab-9b1d-780e6c4717f7", 
+    "uid": "28f2dd4d-b4f8-4c9b-8440-ce5140b90050", 
     "url": null
 }

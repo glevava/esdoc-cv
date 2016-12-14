@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.334980+00:00", 
+    "createDate": "2016-12-12 21:57:04.767441+00:00", 
     "data": {
         "activityID": [
             "FAFMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 102, 
-    "labels": {
-        "en": "faf-stress"
-    }, 
+    "label": "faf-stress", 
     "name": "faf-stress", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "b1830fdb-db83-4764-94f6-f20b9eafc219", 
+    "uid": "911478c1-25fb-42e9-85f8-ce50f1c771d2", 
     "url": null
 }

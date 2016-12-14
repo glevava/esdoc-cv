@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.345766+00:00", 
+    "createDate": "2016-12-12 21:57:04.778181+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 210, 
-    "labels": {
-        "en": "piSST"
-    }, 
+    "label": "piSST", 
     "name": "pisst", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "78118c31-1853-4900-b62a-b2feed0cf6f5", 
+    "uid": "3345aedf-34f3-4b64-8d81-27a2e417e6cc", 
     "url": null
 }

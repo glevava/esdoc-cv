@@ -3,19 +3,17 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.320917+00:00", 
+    "createDate": "2016-12-12 21:57:04.783092+00:00", 
     "data": {
         "postalAddress": "National Center for Atmospheric Research, Boulder, CO 80307, USA"
     }, 
     "description": null, 
     "idx": 12, 
-    "labels": {
-        "en": "NCAR"
-    }, 
+    "label": "NCAR", 
     "name": "ncar", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "368ecec8-d27d-4e9a-ba3f-9d764e8b3cdc", 
+    "uid": "8718cb68-6f54-4d53-a1ec-c2fbce91068e", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.334134+00:00", 
+    "createDate": "2016-12-12 21:57:04.766542+00:00", 
     "data": {
         "activityID": [
             "LUMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 93, 
-    "labels": {
-        "en": "land-crop-noIrrig"
-    }, 
+    "label": "land-crop-noIrrig", 
     "name": "land-crop-noirrig", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "802fc58c-41cd-4af8-b01f-242dd6cdd0d0", 
+    "uid": "cc248288-1fc2-4ddf-8aeb-e400d1574a4c", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.336891+00:00", 
+    "createDate": "2016-12-12 21:57:04.769381+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 122, 
-    "labels": {
-        "en": "esm-piControl"
-    }, 
+    "label": "esm-piControl", 
     "name": "esm-picontrol", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "ba032162-2fa7-42d3-9072-336502dad624", 
+    "uid": "68daf466-d4f8-4f16-92e0-b211a71a805d", 
     "url": null
 }

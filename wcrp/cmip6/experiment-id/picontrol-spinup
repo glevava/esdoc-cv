@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.339227+00:00", 
+    "createDate": "2016-12-12 21:57:04.771755+00:00", 
     "data": {
         "activityID": [
             "CMIP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 146, 
-    "labels": {
-        "en": "piControl-spinup"
-    }, 
+    "label": "piControl-spinup", 
     "name": "picontrol-spinup", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "a869b980-d665-40cb-a021-a1ae44fe5f31", 
+    "uid": "d61bec97-0ca1-4b7a-b90d-2bcb7fb8becc", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.326581+00:00", 
+    "createDate": "2016-12-12 21:57:04.759117+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 12, 
-    "labels": {
-        "en": "piSST-4xCO2"
-    }, 
+    "label": "piSST-4xCO2", 
     "name": "pisst-4xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3a762a73-8b58-46fb-99fa-9e27ff3158ae", 
+    "uid": "d4d235ea-dbfa-4992-bc9c-cba086f86da1", 
     "url": null
 }

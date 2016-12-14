@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.334231+00:00", 
+    "createDate": "2016-12-12 21:57:04.766636+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 94, 
-    "labels": {
-        "en": "ssp585"
-    }, 
+    "label": "ssp585", 
     "name": "ssp585", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "5c72b592-5b58-45d6-a2e9-bfcbd8eff3ef", 
+    "uid": "95221849-ba57-46c6-a4de-ddf867ea3517", 
     "url": null
 }

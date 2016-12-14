@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.326407+00:00", 
+    "createDate": "2016-12-12 21:57:04.758942+00:00", 
     "data": {
         "activityID": [
             "GMMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 10, 
-    "labels": {
-        "en": "amip-hist"
-    }, 
+    "label": "amip-hist", 
     "name": "amip-hist", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e0dc4080-edf7-44a1-acd2-25bea6e849a6", 
+    "uid": "35376322-a563-4a8a-a82e-0b2580139378", 
     "url": null
 }

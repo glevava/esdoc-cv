@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.331711+00:00", 
+    "createDate": "2016-12-12 21:57:04.764230+00:00", 
     "data": {
         "activityID": [
             "LS3MIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 68, 
-    "labels": {
-        "en": "lfmip-rmLC"
-    }, 
+    "label": "lfmip-rmLC", 
     "name": "lfmip-rmlc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8dc13efa-d468-403e-9cdb-a4386338c023", 
+    "uid": "5d2477da-df3c-47d5-aaf3-68de6aaf8ae0", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.336986+00:00", 
+    "createDate": "2016-12-12 21:57:04.769481+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 123, 
-    "labels": {
-        "en": "piClim-NTCF"
-    }, 
+    "label": "piClim-NTCF", 
     "name": "piclim-ntcf", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "f309f9a4-deb5-4baf-a235-fff33a30a91e", 
+    "uid": "3d62ed56-c867-4f21-8c65-107c4d826d98", 
     "url": null
 }

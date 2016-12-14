@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.343153+00:00", 
+    "createDate": "2016-12-12 21:57:04.775617+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 185, 
-    "labels": {
-        "en": "piClim-2xfire"
-    }, 
+    "label": "piClim-2xfire", 
     "name": "piclim-2xfire", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c2f71816-2f53-4266-ba60-5939454dd5b9", 
+    "uid": "821a9121-6672-42ae-a057-9ea736f52901", 
     "url": null
 }

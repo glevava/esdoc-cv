@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.330874+00:00", 
+    "createDate": "2016-12-12 21:57:04.763405+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -27,13 +27,11 @@
     }, 
     "description": null, 
     "idx": 59, 
-    "labels": {
-        "en": "histSST-1950HC"
-    }, 
+    "label": "histSST-1950HC", 
     "name": "histsst-1950hc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "0da11c45-8e33-4570-9c8f-152fdaf2dd37", 
+    "uid": "48a5c556-6367-4222-b3c8-8b4fb4d2ebe2", 
     "url": null
 }

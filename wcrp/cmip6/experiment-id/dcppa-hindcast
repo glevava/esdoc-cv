@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.330325+00:00", 
+    "createDate": "2016-12-12 21:57:04.762864+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -34,13 +34,11 @@
     }, 
     "description": null, 
     "idx": 53, 
-    "labels": {
-        "en": "dcppA-hindcast"
-    }, 
+    "label": "dcppA-hindcast", 
     "name": "dcppa-hindcast", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "2c340ca6-5c37-4204-8c35-7f32251da676", 
+    "uid": "b56b9107-5ac2-4c82-a92e-f60542a039a0", 
     "url": null
 }

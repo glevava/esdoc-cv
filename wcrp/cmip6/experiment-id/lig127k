@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.334415+00:00", 
+    "createDate": "2016-12-12 21:57:04.766821+00:00", 
     "data": {
         "activityID": [
             "PMIP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 96, 
-    "labels": {
-        "en": "lig127k"
-    }, 
+    "label": "lig127k", 
     "name": "lig127k", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "cb272118-8dcf-453f-9270-b308d093625f", 
+    "uid": "8eca8e8d-cab6-435a-8969-658500dcfec3", 
     "url": null
 }

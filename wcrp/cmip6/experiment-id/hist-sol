@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.338932+00:00", 
+    "createDate": "2016-12-12 21:57:04.771459+00:00", 
     "data": {
         "activityID": [
             "DAMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 143, 
-    "labels": {
-        "en": "hist-sol"
-    }, 
+    "label": "hist-sol", 
     "name": "hist-sol", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "22fa0f8e-851e-4d21-8d64-99f804e35d30", 
+    "uid": "4c324dd4-790a-47c4-87a5-1caee2a07551", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.329434+00:00", 
+    "createDate": "2016-12-12 21:57:04.762028+00:00", 
     "data": {
         "activityID": [
             "HighResMIP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 44, 
-    "labels": {
-        "en": "control-1950"
-    }, 
+    "label": "control-1950", 
     "name": "control-1950", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "294afcfb-27e4-41ef-a99d-246c0d96cfa2", 
+    "uid": "2998f8bf-c8ca-49df-8873-525b284e7dcf", 
     "url": null
 }

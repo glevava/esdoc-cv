@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.345453+00:00", 
+    "createDate": "2016-12-12 21:57:04.777862+00:00", 
     "data": {
         "activityID": [
             "DCPP"
@@ -29,13 +29,11 @@
     }, 
     "description": null, 
     "idx": 207, 
-    "labels": {
-        "en": "dcppC-atl-control"
-    }, 
+    "label": "dcppC-atl-control", 
     "name": "dcppc-atl-control", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "93b009fc-03ec-4291-b786-fb9083736ad7", 
+    "uid": "8339ed13-ff2b-4f88-8c26-91b8ff696ecf", 
     "url": null
 }

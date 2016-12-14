@@ -3,17 +3,15 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.316914+00:00", 
+    "createDate": "2016-12-12 21:57:04.751966+00:00", 
     "data": null, 
     "description": null, 
     "idx": 4, 
-    "labels": {
-        "en": "CMIP"
-    }, 
+    "label": "CMIP", 
     "name": "cmip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "a72a93eb-7a68-4105-8a40-84343bdd870a", 
+    "uid": "e9195f96-a1ab-423c-b756-352d4e4cf5b0", 
     "url": null
 }

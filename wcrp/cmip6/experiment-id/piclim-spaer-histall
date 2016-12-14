@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.339423+00:00", 
+    "createDate": "2016-12-12 21:57:04.771952+00:00", 
     "data": {
         "activityID": [
             "RFMIP"
@@ -25,13 +25,11 @@
     }, 
     "description": null, 
     "idx": 148, 
-    "labels": {
-        "en": "piClim-spAer-histall"
-    }, 
+    "label": "piClim-spAer-histall", 
     "name": "piclim-spaer-histall", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "b6064ed3-9747-4dbb-b41c-b9c8a8ac958b", 
+    "uid": "34838b8e-7cbc-4aed-8ee8-383c0280d2f4", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.343561+00:00", 
+    "createDate": "2016-12-12 21:57:04.776021+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 189, 
-    "labels": {
-        "en": "aqua-control"
-    }, 
+    "label": "aqua-control", 
     "name": "aqua-control", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "93f545af-3b2b-475c-afda-872dead906d3", 
+    "uid": "edc574b1-c62c-4dda-9e39-48f13d708e07", 
     "url": null
 }

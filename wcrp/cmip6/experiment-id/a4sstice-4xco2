@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.340310+00:00", 
+    "createDate": "2016-12-12 21:57:04.772835+00:00", 
     "data": {
         "activityID": [
             "CFMIP"
@@ -28,13 +28,11 @@
     }, 
     "description": null, 
     "idx": 157, 
-    "labels": {
-        "en": "a4SSTice-4xCO2"
-    }, 
+    "label": "a4SSTice-4xCO2", 
     "name": "a4sstice-4xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8f89bb13-59ba-4b0b-847c-25b268523331", 
+    "uid": "f326b2e0-d885-434f-83cb-87fe6da2c1e7", 
     "url": null
 }

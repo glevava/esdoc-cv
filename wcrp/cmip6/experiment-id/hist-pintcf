@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.333945+00:00", 
+    "createDate": "2016-12-12 21:57:04.766353+00:00", 
     "data": {
         "activityID": [
             "AerChemMIP"
@@ -33,13 +33,11 @@
     }, 
     "description": null, 
     "idx": 91, 
-    "labels": {
-        "en": "hist-piNTCF"
-    }, 
+    "label": "hist-piNTCF", 
     "name": "hist-pintcf", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d86735e5-76a1-47e6-9bc4-bd6432cf39ef", 
+    "uid": "5fab8847-bd61-4633-8da9-366dd79ef534", 
     "url": null
 }

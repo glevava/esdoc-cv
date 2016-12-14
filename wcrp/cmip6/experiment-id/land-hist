@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 17:09:13.341197+00:00", 
+    "createDate": "2016-12-12 21:57:04.773716+00:00", 
     "data": {
         "activityID": [
             "LS3MIP", 
@@ -26,13 +26,11 @@
     }, 
     "description": null, 
     "idx": 166, 
-    "labels": {
-        "en": "land-hist"
-    }, 
+    "label": "land-hist", 
     "name": "land-hist", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8e7ed957-58c7-4b45-9cea-d8cf4389fb72", 
+    "uid": "a3b41140-22ad-47e1-aaf4-d0f23299b992", 
     "url": null
 }
