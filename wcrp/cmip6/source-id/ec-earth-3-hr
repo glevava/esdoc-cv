@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 21:57:04.754122+00:00", 
+    "createDate": "2016-12-14 12:00:00+00:00", 
     "data": {
         "aerosol": "None", 
         "atmosphere": "IFS cy36r4 (TL511, linearly reduced Gaussian grid equivalent to 1024 x 512; 91 levels; top level 1 Pa)", 
@@ -31,6 +31,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "28f2dd4d-b4f8-4c9b-8440-ce5140b90050", 
+    "uid": "3f5070d2-0b87-42e0-a9eb-82b0779d30f8", 
     "url": null
 }

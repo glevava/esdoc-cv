@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 21:57:04.774015+00:00", 
+    "createDate": "2016-12-14 12:00:00+00:00", 
     "data": {
         "activityID": [
             "C4MIP"
@@ -38,6 +38,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3f607f50-16f4-4aaf-9afa-6ea0571d7143", 
+    "uid": "7c178f9c-8d86-4e7f-9e6c-6a2669a24e9d", 
     "url": null
 }

@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 21:57:04.762562+00:00", 
+    "createDate": "2016-12-14 12:00:00+00:00", 
     "data": {
         "activityID": [
             "ISMIP6"
@@ -36,6 +36,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d4bd8530-ece8-40ed-9270-a350ef972909", 
+    "uid": "4e03b4f1-a918-417a-956d-abebe1143e64", 
     "url": null
 }

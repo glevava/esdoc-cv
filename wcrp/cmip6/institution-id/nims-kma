@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 21:57:04.783179+00:00", 
+    "createDate": "2016-12-14 12:00:00+00:00", 
     "data": {
         "postalAddress": "National Institute of Meteorological Sciences/Korea Meteorological Administration, Climate Research Division, Seoho-bukro 33, Seogwipo-si, Jejudo 63568, Republic of Korea"
     }, 
@@ -14,6 +14,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "4b823268-5ebc-4038-9c6c-1e4aa885764e", 
+    "uid": "c0d46647-46a3-4728-88bd-7045b88060f0", 
     "url": null
 }

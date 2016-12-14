@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 21:57:04.768289+00:00", 
+    "createDate": "2016-12-14 12:00:00+00:00", 
     "data": {
         "activityID": [
             "ScenarioMIP"
@@ -38,6 +38,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e8a9da51-ec84-4c0a-a8de-3ce2debb0a77", 
+    "uid": "7affe0bb-93af-4d8c-bf37-35b86418e97a", 
     "url": null
 }

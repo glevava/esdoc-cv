@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-12 21:57:04.783092+00:00", 
+    "createDate": "2016-12-14 12:00:00+00:00", 
     "data": {
         "postalAddress": "National Center for Atmospheric Research, Boulder, CO 80307, USA"
     }, 
@@ -14,6 +14,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8718cb68-6f54-4d53-a1ec-c2fbce91068e", 
+    "uid": "b21f8b21-56cc-4a77-89fd-f172454d745d", 
     "url": null
 }
