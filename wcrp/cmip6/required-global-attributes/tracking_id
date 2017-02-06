@@ -1,0 +1,17 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 29, 
+    "label": "tracking_id", 
+    "name": "tracking_id", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "8ad67100-eb74-46a8-b33a-d7c29044c744", 
+    "url": null
+}

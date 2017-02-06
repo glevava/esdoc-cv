@@ -1,0 +1,17 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 27, 
+    "label": "Eyr", 
+    "name": "eyr", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "a3affb5e-6136-4fa3-9c06-e4f13241d4e6", 
+    "url": null
+}

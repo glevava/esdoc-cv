@@ -1,0 +1,17 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 21, 
+    "label": "Eday", 
+    "name": "eday", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "68f646eb-5eda-4e20-bed6-f948568a9df8", 
+    "url": null
+}

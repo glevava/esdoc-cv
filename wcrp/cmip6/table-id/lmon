@@ -1,0 +1,17 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 35, 
+    "label": "Lmon", 
+    "name": "lmon", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "684fb89f-cd98-4034-b8f8-11f6f785e34b", 
+    "url": null
+}

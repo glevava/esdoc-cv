@@ -1,0 +1,17 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 36, 
+    "label": "Oclim", 
+    "name": "oclim", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "e515e842-5e36-49f9-976b-533ed9ad67e5", 
+    "url": null
+}

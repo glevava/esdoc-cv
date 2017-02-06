@@ -1,0 +1,17 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 42, 
+    "label": "SIday", 
+    "name": "siday", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "be3cc2b7-6c0f-4e42-841c-ce7f1141e77a", 
+    "url": null
+}

@@ -1,0 +1,17 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 26, 
+    "label": "sub_experiment", 
+    "name": "sub_experiment", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "83a4c1a0-54b4-4452-bf31-af0380c79311", 
+    "url": null
+}

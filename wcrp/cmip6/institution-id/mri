@@ -3,7 +3,7 @@
     "alternativeName": null, 
     "alternativeUrl": null, 
     "associations": [], 
-    "createDate": "2016-12-14 12:00:00+00:00", 
+    "createDate": "0167-03-21 00:00:00+00:00", 
     "data": {
         "postalAddress": "Meteorological Research Institute, Tsukuba, Ibaraki 305-0052, Japan"
     }, 
@@ -14,6 +14,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "16c702a6-c1ce-4322-bd84-02f32b1ac6c7", 
+    "uid": "8d1394a4-2b38-49d0-a601-d3398e5cab79", 
     "url": null
 }

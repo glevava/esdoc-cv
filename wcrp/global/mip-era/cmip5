@@ -1,0 +1,17 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "0167-03-21 00:00:00+00:00", 
+    "data": null, 
+    "description": null, 
+    "idx": 4, 
+    "label": "CMIP5", 
+    "name": "cmip5", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "d8cd5a37-9202-4b9d-8361-cf00dfa4b8fe", 
+    "url": null
+}
