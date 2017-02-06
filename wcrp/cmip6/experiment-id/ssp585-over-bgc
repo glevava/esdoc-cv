@@ -32,12 +32,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 101, 
+    "idx": 98, 
     "label": "ssp585-over-bgc", 
     "name": "ssp585-over-bgc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "bdde5883-33aa-4358-b710-3ec4e0317d16", 
+    "uid": "e91722ba-58fc-4461-bff4-71349460097b", 
     "url": null
 }

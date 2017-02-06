@@ -28,12 +28,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 171, 
+    "idx": 170, 
     "label": "midPliocene-eoi400", 
     "name": "midpliocene-eoi400", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "49a69597-791d-4689-a458-26d677d367c9", 
+    "uid": "81bf666a-6a22-4b02-8b1d-0de905b2fd31", 
     "url": null
 }

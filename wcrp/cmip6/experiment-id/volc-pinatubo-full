@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 115, 
+    "idx": 111, 
     "label": "volc-pinatubo-full", 
     "name": "volc-pinatubo-full", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "0c3b71a4-8111-4b90-a8a3-0a1e42996fd6", 
+    "uid": "007d4e51-bd06-431c-a76c-36d5ce67c15e", 
     "url": null
 }

@@ -8,12 +8,12 @@
         "postalAddress": "Beijing Normal University, Beijing 100875, China"
     }, 
     "description": null, 
-    "idx": 15, 
+    "idx": 16, 
     "label": "BNU", 
     "name": "bnu", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3bd83f7f-6559-4c3b-8ab8-e175b7fc401e", 
+    "uid": "a6bd0c12-c3e9-4016-a9b9-6ecc3e121de2", 
     "url": null
 }

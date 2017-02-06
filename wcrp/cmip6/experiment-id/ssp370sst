@@ -27,12 +27,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 156, 
+    "idx": 155, 
     "label": "ssp370SST", 
     "name": "ssp370sst", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "da29027d-5170-424a-b900-ab27f0c49e1d", 
+    "uid": "c2b561b1-7b06-4c83-a18a-592b8986b73f", 
     "url": null
 }

@@ -32,12 +32,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 111, 
+    "idx": 99, 
     "label": "sspxy", 
     "name": "sspxy", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7affe0bb-93af-4d8c-bf37-35b86418e97a", 
+    "uid": "e94b8f30-0663-47ff-be52-d830ceb049cc", 
     "url": null
 }

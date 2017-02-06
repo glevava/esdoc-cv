@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 91, 
+    "idx": 89, 
     "label": "hist-piNTCF", 
     "name": "hist-pintcf", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "4eb66305-2cf7-43bf-a364-179fac191a39", 
+    "uid": "ac8cc4dc-c3b9-4b5e-81f3-7c505637b917", 
     "url": null
 }

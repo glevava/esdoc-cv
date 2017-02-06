@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 100, 
+    "idx": 97, 
     "label": "abrupt-4xCO2", 
     "name": "abrupt-4xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "a9ac37f6-23f9-4723-9c55-d310ad1abcca", 
+    "uid": "8746ff2d-f8e0-40ab-aab1-e6a583efb09e", 
     "url": null
 }

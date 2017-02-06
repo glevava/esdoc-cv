@@ -27,12 +27,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 130, 
+    "idx": 128, 
     "label": "amip-4xCO2", 
     "name": "amip-4xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "946e4638-2805-4b9c-b757-76176bc095be", 
+    "uid": "6ddacb8a-9cfb-4827-b342-5cd09fad08a4", 
     "url": null
 }

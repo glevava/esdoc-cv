@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 54, 
+    "idx": 52, 
     "label": "G6SST2-sulfur", 
     "name": "g6sst2-sulfur", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c262b4d5-426c-4394-88b1-5d1b59807264", 
+    "uid": "00138998-533d-45c3-aa4f-1808086ac4fb", 
     "url": null
 }

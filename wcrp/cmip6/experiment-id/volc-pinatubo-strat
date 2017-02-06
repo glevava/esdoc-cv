@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 193, 
+    "idx": 192, 
     "label": "volc-pinatubo-strat", 
     "name": "volc-pinatubo-strat", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e411ffc5-057f-4a30-9a44-c3529ad6df04", 
+    "uid": "fcef88b1-0322-424b-824e-c1ff4e77a49a", 
     "url": null
 }

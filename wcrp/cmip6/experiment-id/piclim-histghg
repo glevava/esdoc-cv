@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 31, 
+    "idx": 30, 
     "label": "piClim-histghg", 
     "name": "piclim-histghg", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7a27aa64-b6aa-4673-ad10-b39d9420b557", 
+    "uid": "2720c4ed-0ff5-4d26-9976-775a141d14de", 
     "url": null
 }

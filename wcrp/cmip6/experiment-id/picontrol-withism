@@ -16,7 +16,7 @@
         "description": "Pre-industrial control simulation that includes interactive ice sheets", 
         "endYear": "", 
         "experiment": "preindustrial control with interactive ice sheet", 
-        "minNumberYrsPerSim": "451", 
+        "minNumberYrsPerSim": "500", 
         "parentActivityID": "", 
         "parentExperimentID": "", 
         "requiredModelComponents": [
@@ -35,6 +35,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "aad82505-3f24-4b9c-b780-8a4aa2f87fda", 
+    "uid": "b2e18299-dd22-4579-829d-9c6a62cb14e0", 
     "url": null
 }

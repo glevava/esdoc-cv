@@ -26,12 +26,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 4, 
+    "idx": 3, 
     "label": "piClim-NH3", 
     "name": "piclim-nh3", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8b5d488f-36a1-45de-b2a3-7211f2ab704e", 
+    "uid": "3bed11e0-8cdc-406b-916b-27ddc915d90f", 
     "url": null
 }

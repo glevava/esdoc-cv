@@ -32,12 +32,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 74, 
+    "idx": 152, 
     "label": "hist-CO2", 
     "name": "hist-co2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "05aa50ee-113d-4e01-a7cd-1d1d14ea2df1", 
+    "uid": "d36e1a51-28ae-49d3-923c-6ac1e64f3c80", 
     "url": null
 }

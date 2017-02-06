@@ -27,12 +27,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 132, 
+    "idx": 130, 
     "label": "amip-p4K", 
     "name": "amip-p4k", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3a823233-dbd6-44b0-82f4-b2b7fae5354b", 
+    "uid": "73dde9e0-661d-45c2-b12e-1a6115d29af0", 
     "url": null
 }

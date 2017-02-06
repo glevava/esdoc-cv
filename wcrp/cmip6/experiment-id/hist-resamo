@@ -32,12 +32,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 35, 
+    "idx": 34, 
     "label": "hist-resAMO", 
     "name": "hist-resamo", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e3499509-1132-4071-8524-0816c99540b9", 
+    "uid": "5af32935-693a-44b5-b2c4-7b4407b37c0b", 
     "url": null
 }

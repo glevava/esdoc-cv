@@ -25,12 +25,12 @@
         "sourceID": "NorESM2-MM"
     }, 
     "description": null, 
-    "idx": 12, 
+    "idx": 28, 
     "label": "NorESM2-MM", 
     "name": "noresm2-mm", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8b33193b-313d-4b25-84c9-92dd25d95e88", 
+    "uid": "2a32a03a-d7de-441e-b5b2-0433ed98382c", 
     "url": null
 }

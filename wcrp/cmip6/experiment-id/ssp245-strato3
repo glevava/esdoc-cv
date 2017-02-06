@@ -32,12 +32,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 163, 
+    "idx": 162, 
     "label": "ssp245-stratO3", 
     "name": "ssp245-strato3", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "0925ecf6-d50f-4217-b437-f49d8c0719f4", 
+    "uid": "5b85b417-b262-4cdd-ae8a-602be8caa9a0", 
     "url": null
 }

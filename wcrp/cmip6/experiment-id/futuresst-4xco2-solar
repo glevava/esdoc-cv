@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 136, 
+    "idx": 134, 
     "label": "futureSST-4xCO2-solar", 
     "name": "futuresst-4xco2-solar", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "5ba9db7b-d6c7-4754-9173-b25e1466dff4", 
+    "uid": "8a00c73a-352c-414a-98a5-df4ac53ebace", 
     "url": null
 }

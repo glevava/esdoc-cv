@@ -31,12 +31,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 51, 
+    "idx": 49, 
     "label": "highresSST-future", 
     "name": "highressst-future", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e473277e-7b17-4d27-8483-0a228879269d", 
+    "uid": "527f6192-decd-4a7a-bd75-f8180599b740", 
     "url": null
 }

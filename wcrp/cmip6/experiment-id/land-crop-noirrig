@@ -24,12 +24,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 93, 
+    "idx": 91, 
     "label": "land-crop-noIrrig", 
     "name": "land-crop-noirrig", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "9fefb91f-2475-4c53-ad59-e9b22b6cbc58", 
+    "uid": "0988c987-2f6a-401c-80f9-8fe507c6ed55", 
     "url": null
 }

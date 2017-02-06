@@ -8,12 +8,12 @@
         "postalAddress": "Meteorological Research Institute, Tsukuba, Ibaraki 305-0052, Japan"
     }, 
     "description": null, 
-    "idx": 18, 
+    "idx": 19, 
     "label": "MRI", 
     "name": "mri", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8e25de30-14f1-4d60-8bd8-516f8db12b24", 
+    "uid": "16c702a6-c1ce-4322-bd84-02f32b1ac6c7", 
     "url": null
 }

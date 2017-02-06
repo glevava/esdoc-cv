@@ -30,12 +30,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 50, 
+    "idx": 48, 
     "label": "ism-asmb-std", 
     "name": "ism-asmb-std", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "4e03b4f1-a918-417a-956d-abebe1143e64", 
+    "uid": "4d8d2ca6-73bc-454c-917f-018d39d0e892", 
     "url": null
 }

@@ -28,12 +28,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 173, 
+    "idx": 172, 
     "label": "ssp370SST-lowNTCF", 
     "name": "ssp370sst-lowntcf", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "bfa2ce50-2f43-4946-adab-ca34f0522b8c", 
+    "uid": "6432b0ee-1255-44f8-b6ec-46fa632bb80f", 
     "url": null
 }

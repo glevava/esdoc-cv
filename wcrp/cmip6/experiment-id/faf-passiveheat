@@ -32,12 +32,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 30, 
+    "idx": 29, 
     "label": "faf-passiveheat", 
     "name": "faf-passiveheat", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "51a0621d-aa9a-495c-8e3f-2be07b522353", 
+    "uid": "9702919d-44ec-4b22-8426-a9101aff368f", 
     "url": null
 }

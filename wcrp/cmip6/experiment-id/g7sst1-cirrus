@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 238, 
+    "idx": 239, 
     "label": "G7SST1-cirrus", 
     "name": "g7sst1-cirrus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "024bab15-829c-4678-b974-edf4e73c3c97", 
+    "uid": "7ff9f8f0-a2f2-435d-9e4b-0127348c14cc", 
     "url": null
 }

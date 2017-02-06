@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 68, 
+    "idx": 66, 
     "label": "lfmip-rmLC", 
     "name": "lfmip-rmlc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "68e1800c-ed28-430f-9310-dbc06b3113b1", 
+    "uid": "0655af22-88c6-406d-8df1-604029e04ff8", 
     "url": null
 }

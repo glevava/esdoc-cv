@@ -12,7 +12,7 @@
         "description": "Pre-industrial control simulation for \"offline\" ice sheets", 
         "endYear": "", 
         "experiment": "offline ice sheet forced by ISM's own AOGCM piControl output", 
-        "minNumberYrsPerSim": "451", 
+        "minNumberYrsPerSim": "500", 
         "parentActivityID": "", 
         "parentExperimentID": "", 
         "requiredModelComponents": [
@@ -30,6 +30,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "9f32f7dc-474a-4191-b67f-4b18da6a8682", 
+    "uid": "39918f3b-fe48-45ba-9baa-d35152bb5513", 
     "url": null
 }

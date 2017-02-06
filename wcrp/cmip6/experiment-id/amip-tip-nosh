@@ -27,12 +27,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 77, 
+    "idx": 74, 
     "label": "amip-TIP-nosh", 
     "name": "amip-tip-nosh", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "460323d1-df25-49b8-93c0-d2f6d9f0fea2", 
+    "uid": "32cf269b-5836-47ee-99c6-bf6127fd0791", 
     "url": null
 }

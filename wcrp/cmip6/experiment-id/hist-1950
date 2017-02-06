@@ -21,7 +21,7 @@
             "HighResMIP"
         ], 
         "parentExperimentID": [
-            "control-1950"
+            "spinup-1950"
         ], 
         "requiredModelComponents": [
             "AOGCM"
@@ -32,12 +32,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 32, 
+    "idx": 31, 
     "label": "hist-1950", 
     "name": "hist-1950", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "242f293c-c8b2-4f18-b712-a76906202d80", 
+    "uid": "0452f04c-c85e-4ba7-bf9b-4fca68c9eade", 
     "url": null
 }

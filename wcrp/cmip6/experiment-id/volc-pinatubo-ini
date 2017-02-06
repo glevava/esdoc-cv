@@ -28,12 +28,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 56, 
+    "idx": 54, 
     "label": "volc-pinatubo-ini", 
     "name": "volc-pinatubo-ini", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e335d708-49a2-484f-9f81-a60731426fa4", 
+    "uid": "89662396-7372-4f69-a960-614f45066ae9", 
     "url": null
 }

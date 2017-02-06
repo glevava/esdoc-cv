@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 90, 
+    "idx": 88, 
     "label": "ssp370SST-lowBC", 
     "name": "ssp370sst-lowbc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "5f2f1398-b94a-421e-9261-e3c701c5963f", 
+    "uid": "4d8df467-67a6-4bf1-94ce-b3183a3f642c", 
     "url": null
 }

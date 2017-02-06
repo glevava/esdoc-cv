@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 144, 
+    "idx": 142, 
     "label": "ssp126-ssp370Lu", 
     "name": "ssp126-ssp370lu", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d38f3dab-1ec5-4482-8a2a-71a2876778ac", 
+    "uid": "7a288a53-3aff-477a-992c-98431c4705cf", 
     "url": null
 }

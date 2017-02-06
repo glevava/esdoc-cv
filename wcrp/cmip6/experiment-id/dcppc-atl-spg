@@ -28,12 +28,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 33, 
+    "idx": 32, 
     "label": "dcppC-atl-spg", 
     "name": "dcppc-atl-spg", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "1b1e3d72-e8ef-4eee-ad20-f994a22c4433", 
+    "uid": "9fb6711d-2dee-43ad-b95b-d4fcac553ea3", 
     "url": null
 }

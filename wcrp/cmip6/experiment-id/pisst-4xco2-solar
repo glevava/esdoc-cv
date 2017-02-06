@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 11, 
+    "idx": 12, 
     "label": "piSST-4xCO2-solar", 
     "name": "pisst-4xco2-solar", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "79d6aada-47f2-4fc4-9ca5-c7dcc0d0181a", 
+    "uid": "38f54fe0-2d28-4ad0-8823-edb382464531", 
     "url": null
 }

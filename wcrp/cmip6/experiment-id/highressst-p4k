@@ -31,12 +31,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 201, 
+    "idx": 200, 
     "label": "highresSST-p4K", 
     "name": "highressst-p4k", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "96cf92c3-771d-43d1-b955-7f5662df5582", 
+    "uid": "83ba6931-1e52-44eb-8149-2cbc229e6dc8", 
     "url": null
 }

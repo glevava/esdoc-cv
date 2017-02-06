@@ -31,12 +31,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 112, 
+    "idx": 108, 
     "label": "highresSST-LAI", 
     "name": "highressst-lai", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7fd5ad8f-77aa-4023-980d-933b87388523", 
+    "uid": "22ebd305-9b77-46a2-922a-4669a3755afe", 
     "url": null
 }

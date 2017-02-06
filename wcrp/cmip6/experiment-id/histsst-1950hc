@@ -26,12 +26,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 59, 
+    "idx": 57, 
     "label": "histSST-1950HC", 
     "name": "histsst-1950hc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "abb06c3b-2606-4f9c-a3bb-7949964b0dec", 
+    "uid": "eff3bf79-cbb2-46b9-97f7-2b6f5e548cfb", 
     "url": null
 }

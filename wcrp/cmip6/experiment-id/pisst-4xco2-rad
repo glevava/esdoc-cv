@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 46, 
+    "idx": 44, 
     "label": "piSST-4xCO2-rad", 
     "name": "pisst-4xco2-rad", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "8215e79f-6d4c-4cf8-8a47-d19000609631", 
+    "uid": "e3b5dde2-8dec-4f0c-9bd4-d8ed8d3fbeef", 
     "url": null
 }

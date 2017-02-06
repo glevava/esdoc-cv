@@ -27,12 +27,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 240, 
+    "idx": 241, 
     "label": "piClim-4xCO2", 
     "name": "piclim-4xco2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "d5debaba-d6de-44ab-a14b-f9860eb6ad1e", 
+    "uid": "b7cfe313-1e1b-4df0-8020-b2b43911938b", 
     "url": null
 }

@@ -31,12 +31,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 42, 
+    "idx": 40, 
     "label": "highresSST-4co2", 
     "name": "highressst-4co2", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "625feb07-b497-4c50-8ff4-aa8b32dca70a", 
+    "uid": "bef45564-76e0-4af9-9095-547b263983ee", 
     "url": null
 }

@@ -28,12 +28,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 117, 
+    "idx": 113, 
     "label": "dcppA-assim", 
     "name": "dcppa-assim", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "0f38ed8c-13c5-402b-8941-75140613ca60", 
+    "uid": "9d5c39c2-7cef-487a-851e-ec7bd9a424c4", 
     "url": null
 }

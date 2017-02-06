@@ -26,7 +26,7 @@
         "requiredModelComponents": [
             "AOGCM"
         ], 
-        "startYear": "1951", 
+        "startYear": "2015", 
         "subExperiment": "none", 
         "subExperimentID": "none", 
         "tier": "2"
@@ -38,6 +38,6 @@
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3b2ff552-4b9c-432f-86f1-eba406a55953", 
+    "uid": "8d66318e-9250-460f-8e83-e76cbda583ca", 
     "url": null
 }

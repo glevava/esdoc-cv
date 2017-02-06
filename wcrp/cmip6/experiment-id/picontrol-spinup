@@ -28,12 +28,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 146, 
+    "idx": 144, 
     "label": "piControl-spinup", 
     "name": "picontrol-spinup", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7188631b-114d-4c40-9f36-a302d29f088b", 
+    "uid": "3cce6f09-32a4-4da3-8654-20128ab14765", 
     "url": null
 }

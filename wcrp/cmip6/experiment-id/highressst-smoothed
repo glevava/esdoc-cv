@@ -31,12 +31,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 150, 
+    "idx": 149, 
     "label": "highresSST-smoothed", 
     "name": "highressst-smoothed", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e931d819-d99f-49de-86c4-8965c209c5d0", 
+    "uid": "4b9c1704-0927-4c95-800f-35b08874096c", 
     "url": null
 }

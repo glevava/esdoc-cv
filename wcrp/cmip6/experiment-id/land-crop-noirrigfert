@@ -24,12 +24,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 160, 
+    "idx": 159, 
     "label": "land-crop-noIrrigFert", 
     "name": "land-crop-noirrigfert", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "9079a3ed-ad59-42fd-b730-9c5294b68b8c", 
+    "uid": "17674e54-c9f0-411e-a7d5-2cc9a5a4500b", 
     "url": null
 }

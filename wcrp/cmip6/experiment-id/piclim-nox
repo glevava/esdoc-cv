@@ -26,12 +26,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 140, 
+    "idx": 138, 
     "label": "piClim-NOx", 
     "name": "piclim-nox", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e4a76acf-0a92-4ee3-b333-49fdc4183401", 
+    "uid": "7449e735-17af-4bfc-804b-f184cb054a4e", 
     "url": null
 }

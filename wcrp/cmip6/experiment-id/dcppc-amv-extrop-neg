@@ -1,0 +1,39 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-14 12:00:00+00:00", 
+    "data": {
+        "activityID": [
+            "DCPP"
+        ], 
+        "additionalAllowedModelComponents": [
+            "AER", 
+            "CHEM", 
+            "BGC"
+        ], 
+        "description": "Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs", 
+        "endYear": "1996", 
+        "experiment": "idealized negative extratropical AMV anomaly pattern", 
+        "minNumberYrsPerSim": "5", 
+        "parentActivityID": "", 
+        "parentExperimentID": "", 
+        "requiredModelComponents": [
+            "AOGCM"
+        ], 
+        "startYear": "1993", 
+        "subExperiment": "initialized near end of year YYYY", 
+        "subExperimentID": "of form: \"sYYYY\"", 
+        "tier": "2"
+    }, 
+    "description": null, 
+    "idx": 72, 
+    "label": "dcppC-amv-ExTrop-neg", 
+    "name": "dcppc-amv-extrop-neg", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "ae75ab99-4318-44a7-9d6a-43f7cc2e20ae", 
+    "url": null
+}

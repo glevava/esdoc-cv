@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 67, 
+    "idx": 65, 
     "label": "volc-long-eq", 
     "name": "volc-long-eq", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "44562004-387e-4d0c-a8a4-b0ea0d3aae99", 
+    "uid": "d44ad5d1-54b0-4850-ac29-b5e18a7dee26", 
     "url": null
 }

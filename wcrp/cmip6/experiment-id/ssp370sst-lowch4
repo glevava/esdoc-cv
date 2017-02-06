@@ -26,12 +26,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 83, 
+    "idx": 80, 
     "label": "ssp370SST-lowCH4", 
     "name": "ssp370sst-lowch4", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "e4369e77-dc90-410d-b91a-60d921512255", 
+    "uid": "35fbdcf8-5fef-44e5-961f-9a775d25a87f", 
     "url": null
 }

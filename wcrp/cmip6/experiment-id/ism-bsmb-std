@@ -30,12 +30,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 40, 
+    "idx": 38, 
     "label": "ism-bsmb-std", 
     "name": "ism-bsmb-std", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "f089b42b-818c-4b8c-b8b9-f51f66a91a8e", 
+    "uid": "e39c2b85-c284-4ec7-bd99-b1056aca2f1a", 
     "url": null
 }

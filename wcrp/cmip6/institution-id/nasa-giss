@@ -8,12 +8,12 @@
         "postalAddress": "Goddard Institute for Space Studies, New York, NY 10025, USA"
     }, 
     "description": null, 
-    "idx": 19, 
+    "idx": 20, 
     "label": "NASA-GISS", 
     "name": "nasa-giss", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "0bf8a991-6f51-4194-8b88-9f6b412c92c8", 
+    "uid": "807e46e2-9dd9-4771-b938-a21d16041cb2", 
     "url": null
 }

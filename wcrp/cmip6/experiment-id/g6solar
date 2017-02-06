@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 41, 
+    "idx": 39, 
     "label": "G6solar", 
     "name": "g6solar", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "9420fee5-c4d3-4b3f-9598-fa3b27a649a5", 
+    "uid": "d1930ac8-35ad-4d0f-969b-3b2fedfc77fb", 
     "url": null
 }

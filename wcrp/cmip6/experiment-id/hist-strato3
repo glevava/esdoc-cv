@@ -32,12 +32,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 95, 
+    "idx": 93, 
     "label": "hist-stratO3", 
     "name": "hist-strato3", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "23a225a1-c783-4e50-8531-8688c0c10468", 
+    "uid": "ea766338-1b7a-467f-bdd2-5663489063e1", 
     "url": null
 }

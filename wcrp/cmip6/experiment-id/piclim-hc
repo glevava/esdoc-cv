@@ -26,12 +26,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 104, 
+    "idx": 102, 
     "label": "piClim-HC", 
     "name": "piclim-hc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "41aeef2c-712b-45ba-b79c-0e32bd745eb5", 
+    "uid": "28be873e-b5fe-43fe-a514-26e9513cc963", 
     "url": null
 }

@@ -18,7 +18,9 @@
         "experiment": "coupled control with fixed 1950's forcing (HighResMIP equivalent of pre-industrial control)", 
         "minNumberYrsPerSim": "100", 
         "parentActivityID": "", 
-        "parentExperimentID": "", 
+        "parentExperimentID": [
+            "spinup-1950"
+        ], 
         "requiredModelComponents": [
             "AOGCM"
         ], 
@@ -28,12 +30,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 44, 
+    "idx": 42, 
     "label": "control-1950", 
     "name": "control-1950", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "21d8b563-6f99-4a9b-8252-a6c2572eae08", 
+    "uid": "cfbe7a45-539e-48e6-9a99-b98f143021f1", 
     "url": null
 }

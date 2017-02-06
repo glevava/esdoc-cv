@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 18, 
+    "idx": 218, 
     "label": "volc-pinatubo-surf", 
     "name": "volc-pinatubo-surf", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "f3492042-e309-4f09-8ece-a9e494be74e3", 
+    "uid": "fa1be84f-b7fb-4fa2-b5a6-6ab65a5f5d5a", 
     "url": null
 }

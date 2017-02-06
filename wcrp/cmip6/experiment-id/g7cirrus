@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 118, 
+    "idx": 114, 
     "label": "G7cirrus", 
     "name": "g7cirrus", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "16f36535-1c00-4e32-aaff-7d412c7f363a", 
+    "uid": "eafc0f41-f642-4352-81e9-efc2e2ede5f9", 
     "url": null
 }

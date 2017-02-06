@@ -1,0 +1,19 @@
+{
+    "_type": "pyesdoc.cv.model.term", 
+    "alternativeName": null, 
+    "alternativeUrl": null, 
+    "associations": [], 
+    "createDate": "2016-12-14 12:00:00+00:00", 
+    "data": {
+        "postalAddress": "Natural Environment Research Council, STFC-RAL, Harwell, Oxford, OX11 0QX, UK"
+    }, 
+    "description": null, 
+    "idx": 22, 
+    "label": "NERC", 
+    "name": "nerc", 
+    "parent": null, 
+    "status": "pending", 
+    "synonyms": [], 
+    "uid": "763099ca-78cd-432e-a4b0-7f12e657b2ad", 
+    "url": null
+}

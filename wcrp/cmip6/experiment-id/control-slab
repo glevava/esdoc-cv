@@ -29,12 +29,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 60, 
+    "idx": 58, 
     "label": "control-slab", 
     "name": "control-slab", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "15a32b97-9ca8-4675-ac36-d1da7fbff262", 
+    "uid": "228e45b5-d1b8-4dfd-8a9b-5af8c6f602be", 
     "url": null
 }

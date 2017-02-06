@@ -24,12 +24,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 80, 
+    "idx": 77, 
     "label": "land-hist-altStartYear", 
     "name": "land-hist-altstartyear", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "dcaadfed-85c4-4b99-a63e-3db646ad36f1", 
+    "uid": "afd525e1-4762-4a2e-b4f5-ac9c746a8840", 
     "url": null
 }

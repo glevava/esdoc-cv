@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 141, 
+    "idx": 139, 
     "label": "piClim-2xss", 
     "name": "piclim-2xss", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "6d522a25-9350-477c-8fdf-4184a4adc65e", 
+    "uid": "45ac4355-bdf3-4f5a-889b-e7fa0c61485a", 
     "url": null
 }

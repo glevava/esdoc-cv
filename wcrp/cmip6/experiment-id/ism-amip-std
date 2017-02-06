@@ -24,12 +24,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 65, 
+    "idx": 63, 
     "label": "ism-amip-std", 
     "name": "ism-amip-std", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "7f1d9ec4-3cac-4dbe-8760-1ee4472821c2", 
+    "uid": "e912172f-afb4-4a0b-b29f-5538b03641be", 
     "url": null
 }

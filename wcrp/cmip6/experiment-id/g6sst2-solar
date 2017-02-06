@@ -27,12 +27,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 195, 
+    "idx": 194, 
     "label": "G6SST2-solar", 
     "name": "g6sst2-solar", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "1597231d-1003-42c3-a3a7-ea95ffb45ed9", 
+    "uid": "c1cc2708-7f2b-41ce-9c92-cec7dbe1502e", 
     "url": null
 }

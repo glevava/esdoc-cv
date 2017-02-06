@@ -32,12 +32,12 @@
         "tier": "2"
     }, 
     "description": null, 
-    "idx": 133, 
+    "idx": 131, 
     "label": "hist-bgc", 
     "name": "hist-bgc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "3ce2a4de-a1c8-4f4f-9127-04f4a34c0ad5", 
+    "uid": "bae6a1d7-2503-48e8-8b47-8bdc8396b13a", 
     "url": null
 }

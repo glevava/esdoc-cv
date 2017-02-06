@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 135, 
+    "idx": 133, 
     "label": "1pctCO2-bgc", 
     "name": "1pctco2-bgc", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "5fed9112-c81a-4d6e-90bc-b81623f2696a", 
+    "uid": "7c141416-a817-4844-9ba4-17500cecac75", 
     "url": null
 }

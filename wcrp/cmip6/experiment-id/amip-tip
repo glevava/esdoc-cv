@@ -27,12 +27,12 @@
         "tier": "3"
     }, 
     "description": null, 
-    "idx": 110, 
+    "idx": 106, 
     "label": "amip-TIP", 
     "name": "amip-tip", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "bb71a7b0-9545-4018-a3f0-a541a1dbe0a4", 
+    "uid": "f57a0be6-8c10-40f0-bd70-2e72e34e5f8f", 
     "url": null
 }

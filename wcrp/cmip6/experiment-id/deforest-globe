@@ -32,12 +32,12 @@
         "tier": "1"
     }, 
     "description": null, 
-    "idx": 175, 
+    "idx": 174, 
     "label": "deforest-globe", 
     "name": "deforest-globe", 
     "parent": null, 
     "status": "pending", 
     "synonyms": [], 
-    "uid": "c79bf2db-7c7c-4a66-a9d6-b70f3da2e8ee", 
+    "uid": "7ba59c7f-ad33-44ee-8304-469a6244a03c", 
     "url": null
 }
